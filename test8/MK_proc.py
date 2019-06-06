@@ -1,49 +1,68 @@
-'''
-def det_bits(loaded,ind_det=24,nbits=7,verbose=True):
-    # ME1/1 is ind_det=24
-    # original binning is 260(about 8bits)
-    import numpy as np
-    bendmin = -(2**(nbits-1)-1)
-    bendmax = 2**(nbits-1)-1
-    X = loaded['variables']
-    np.clip(X[:,ind_det],bendmin,bendmax,out=X[:,ind_det])
-    if verbose == True:
-        print("clip performed")
-        print("max: ",np.nanmax(X[:,ind_det]))
-        print("std: ",np.nanstd(X[:,ind_det]))
-        print("min: ",np.nanmin(X[:,ind_det]))
-    nan_ind = np.isnan(X[:,ind_det])
-    two2n=2**nbits-2+1
-    digi = np.linspace(bendmin,bendmax,num=two2n)
-    if verbose == True:
-        print(digi)
-    yesnan = digi[np.digitize(X[:,ind_det],digi)-1] # new values for new number of bits 
-    yesnan[nan_ind] = bendmax + 1 #np.nan # restore nan
-    if verbose == True:
-        print(X[0:100:,ind_det])
-        print(yesnan[0:100])
-    X[:,ind_det] = yesnan
-    return X
-'''
+#def det_bits(loaded,ind_det=24,nbits=7,verbose=True):
+#    # ME1/1 is ind_det=24
+#    # original binning is 260(about 8bits)
+#    import numpy as np
+#    bendmin = -(2**(nbits-1)-1)
+#    bendmax = 2**(nbits-1)-1
+#    X = loaded['variables']
+#    np.clip(X[:,ind_det],bendmin,bendmax,out=X[:,ind_det])
+#    if verbose == True:
+#        print("clip performed")
+#        print("max: ",np.nanmax(X[:,ind_det]))
+#        print("std: ",np.nanstd(X[:,ind_det]))
+#        print("min: ",np.nanmin(X[:,ind_det]))
+#    nan_ind = np.isnan(X[:,ind_det])
+#    two2n=2**nbits-2+1
+#    digi = np.linspace(bendmin,bendmax,num=two2n)
+#    if verbose == True:
+#        print(digi)
+#    yesnan = digi[np.digitize(X[:,ind_det],digi)-1] # new values for new number of bits 
+#    yesnan[nan_ind] = bendmax + 1 #np.nan # restore nan
+#    if verbose == True:
+#        print(X[0:100:,ind_det])
+#        print(yesnan[0:100])
+#    X[:,ind_det] = yesnan
+#    return X
 
-def det_bits(loaded,ind_det=24,nbits=7,verbose=True):
-    # ME1/1 is ind_det=24
+
+def det_bits(loaded, ind_det=24, nbits=7, verbose=True):
+    """
+    Compresses ME1/1 bend angle variable into less number of bits
+    
+    Parameters:
+    loaded : Design Matrix X
+    ind_det : index for ME 1/1 bend angle variable. (24)
+    nbits : bit size or bit compression scheme
+    
+    Returns:
+    Design Matrix with compressed bend angle variable
+    Std. Dev. to be used for normalization
+    """
     # original binning is 260(about 8bits)
     import numpy as np
     X = loaded['variables']
+    
+    # compression schemes
     dictBins = {}
-    # 4-bit compressions
+    
+    # 5 bits compression scheme
+    dictBins[5] = np.asarray([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]) # 5 bits
+    
+    # 4 bits compressions scheme
+    dictBins[4]  = np.asarray([0,1,2, 3, 4, 5, 6, 7]) # 4 bits
     dictBins[41] = np.asarray([0,3,8,12,16,20,24,28]) # 5-bit truncated
     dictBins[42] = np.asarray([0,1,2,3, 5, 9, 17,33]) # Power-of-2
     dictBins[43] = np.asarray([0,1,2,4, 6, 9, 14,22]) # Fibbonaci-ish
     dictBins[44] = np.asarray([0,1,3,5, 8, 12,18,27]) # Log-1.6
     
-    # 3-bit compressions
+    # 3 bits compressions scheme
+    dictBins[3]  = np.asarray([0,1, 2, 3]) # 4 bits
     dictBins[31] = np.asarray([0,5,13,21]) # 4-bit truncated
     dictBins[32] = np.asarray([0,2,5, 17]) # Power-of-2 mode
     dictBins[33] = np.asarray([0,3,9, 22]) # Fibbonaci-ish mode
     dictBins[34] = np.asarray([0,3,8, 18]) # Log-1.6 mode
     
+    # applying binning 
     bins = dictBins[nbits]
     binsNp = np.asarray(bins)
     nums = X[:,ind_det] # bend variable for ME1/1 (ind_det =24)
