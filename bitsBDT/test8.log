@@ -1725,3 +1725,23 @@
 2019-06-06 08:29:24,324 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
 2019-06-06 08:29:24,327 [INFO    ] Loaded the encoded parameters with shape (3272341,)
 2019-06-06 08:29:26,296 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-06-06 10:40:29,555 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-06-06 10:40:29,876 [INFO    ] Using numpy 1.14.1
+2019-06-06 10:40:36,379 [INFO    ] Using tensorflow 1.6.0
+2019-06-06 10:40:36,527 [INFO    ] Using keras 2.1.4
+2019-06-06 10:40:36,538 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-06-06 10:40:36,539 [INFO    ] Using scipy 1.1.0
+2019-06-06 10:40:36,888 [INFO    ] Using sklearn 0.19.1
+2019-06-06 10:40:37,322 [INFO    ] Using matplotlib 1.5.2
+2019-06-06 10:42:39,508 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-06-06 10:42:45,601 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-06-06 10:42:45,603 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-06-06 10:43:02,192 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-06-06 10:43:02,194 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-06-06 10:43:04,178 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-06-06 10:50:07,778 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-06-06 10:50:09,839 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-06-06 10:50:09,840 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-06-06 10:50:14,178 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-06-06 10:50:14,180 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-06-06 10:50:14,429 [INFO    ] Loaded # of training and testing events: (652320, 163924)
