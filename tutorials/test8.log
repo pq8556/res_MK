@@ -1,0 +1,48 @@
+2019-03-22 21:07:21,117 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-22 21:07:21,836 [INFO    ] Using numpy 1.14.1
+2019-03-22 21:07:37,059 [INFO    ] Using tensorflow 1.6.0
+2019-03-22 21:07:37,251 [INFO    ] Using keras 2.1.4
+2019-03-22 21:07:37,259 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-22 21:07:37,259 [INFO    ] Using scipy 1.1.0
+2019-03-22 21:07:37,486 [INFO    ] Using sklearn 0.19.1
+2019-03-22 21:07:37,825 [INFO    ] Using matplotlib 1.5.2
+2019-03-22 21:11:06,151 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-22 21:11:06,342 [INFO    ] Using numpy 1.14.1
+2019-03-22 21:11:10,111 [INFO    ] Using tensorflow 1.6.0
+2019-03-22 21:11:10,208 [INFO    ] Using keras 2.1.4
+2019-03-22 21:11:10,214 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-22 21:11:10,214 [INFO    ] Using scipy 1.1.0
+2019-03-22 21:11:10,447 [INFO    ] Using sklearn 0.19.1
+2019-03-22 21:11:10,797 [INFO    ] Using matplotlib 1.5.2
+2019-03-22 21:12:17,969 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-22 21:12:18,157 [INFO    ] Using numpy 1.14.1
+2019-03-22 21:12:21,967 [INFO    ] Using tensorflow 1.6.0
+2019-03-22 21:12:22,083 [INFO    ] Using keras 2.1.4
+2019-03-22 21:12:22,090 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-22 21:12:22,090 [INFO    ] Using scipy 1.1.0
+2019-03-22 21:12:22,309 [INFO    ] Using sklearn 0.19.1
+2019-03-22 21:12:22,763 [INFO    ] Using matplotlib 1.5.2
+2019-03-22 21:13:04,877 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-22 21:13:05,010 [INFO    ] Using numpy 1.14.1
+2019-03-22 21:13:07,016 [INFO    ] Using tensorflow 1.6.0
+2019-03-22 21:13:07,070 [INFO    ] Using keras 2.1.4
+2019-03-22 21:13:07,076 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-22 21:13:07,076 [INFO    ] Using scipy 1.1.0
+2019-03-22 21:13:07,136 [INFO    ] Using sklearn 0.19.1
+2019-03-22 21:13:07,390 [INFO    ] Using matplotlib 1.5.2
+2019-03-22 21:17:41,656 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-22 21:17:41,886 [INFO    ] Using numpy 1.14.1
+2019-03-22 21:17:46,929 [INFO    ] Using tensorflow 1.6.0
+2019-03-22 21:17:47,074 [INFO    ] Using keras 2.1.4
+2019-03-22 21:17:47,084 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-22 21:17:47,084 [INFO    ] Using scipy 1.1.0
+2019-03-22 21:17:47,364 [INFO    ] Using sklearn 0.19.1
+2019-03-22 21:17:47,682 [INFO    ] Using matplotlib 1.5.2
+2019-03-22 21:19:06,934 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-22 21:19:07,166 [INFO    ] Using numpy 1.14.1
+2019-03-22 21:19:11,692 [INFO    ] Using tensorflow 1.6.0
+2019-03-22 21:19:11,801 [INFO    ] Using keras 2.1.4
+2019-03-22 21:19:11,807 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-22 21:19:11,807 [INFO    ] Using scipy 1.1.0
+2019-03-22 21:19:12,097 [INFO    ] Using sklearn 0.19.1
+2019-03-22 21:19:12,424 [INFO    ] Using matplotlib 1.5.2

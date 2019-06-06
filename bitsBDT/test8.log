@@ -1,0 +1,1727 @@
+2019-03-06 15:04:55,675 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-06 15:04:56,075 [INFO    ] Using numpy 1.14.1
+2019-03-06 15:05:04,166 [INFO    ] Using tensorflow 1.6.0
+2019-03-06 15:05:04,267 [INFO    ] Using keras 2.1.4
+2019-03-06 15:05:04,279 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-06 15:05:04,280 [INFO    ] Using scipy 1.1.0
+2019-03-06 15:05:04,527 [INFO    ] Using sklearn 0.19.1
+2019-03-06 15:05:04,985 [INFO    ] Using matplotlib 1.5.2
+2019-03-06 15:06:33,920 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-06 15:06:34,103 [INFO    ] Using numpy 1.14.1
+2019-03-06 15:06:37,768 [INFO    ] Using tensorflow 1.6.0
+2019-03-06 15:06:37,864 [INFO    ] Using keras 2.1.4
+2019-03-06 15:06:37,873 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-06 15:06:37,873 [INFO    ] Using scipy 1.1.0
+2019-03-06 15:06:38,075 [INFO    ] Using sklearn 0.19.1
+2019-03-06 15:06:38,357 [INFO    ] Using matplotlib 1.5.2
+2019-03-06 15:07:04,158 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-06 15:07:04,273 [INFO    ] Using numpy 1.14.1
+2019-03-06 15:07:06,204 [INFO    ] Using tensorflow 1.6.0
+2019-03-06 15:07:06,254 [INFO    ] Using keras 2.1.4
+2019-03-06 15:07:06,262 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-06 15:07:06,262 [INFO    ] Using scipy 1.1.0
+2019-03-06 15:07:06,315 [INFO    ] Using sklearn 0.19.1
+2019-03-06 15:07:06,555 [INFO    ] Using matplotlib 1.5.2
+2019-03-06 15:07:21,119 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-03-06 15:07:40,941 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-03-06 15:07:40,942 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-03-06 15:12:45,504 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-06 15:12:45,702 [INFO    ] Using numpy 1.14.1
+2019-03-06 15:12:49,297 [INFO    ] Using tensorflow 1.6.0
+2019-03-06 15:12:49,400 [INFO    ] Using keras 2.1.4
+2019-03-06 15:12:49,408 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-06 15:12:49,408 [INFO    ] Using scipy 1.1.0
+2019-03-06 15:12:49,620 [INFO    ] Using sklearn 0.19.1
+2019-03-06 15:12:49,897 [INFO    ] Using matplotlib 1.5.2
+2019-03-06 15:12:55,548 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-03-06 15:13:02,863 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-03-06 15:13:02,864 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-03-06 15:15:42,404 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-06 15:15:42,595 [INFO    ] Using numpy 1.14.1
+2019-03-06 15:15:46,188 [INFO    ] Using tensorflow 1.6.0
+2019-03-06 15:15:46,273 [INFO    ] Using keras 2.1.4
+2019-03-06 15:15:46,282 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-06 15:15:46,282 [INFO    ] Using scipy 1.1.0
+2019-03-06 15:15:46,477 [INFO    ] Using sklearn 0.19.1
+2019-03-06 15:15:46,753 [INFO    ] Using matplotlib 1.5.2
+2019-03-06 15:15:51,338 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-03-06 15:15:58,863 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-03-06 15:15:58,865 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-03-06 15:16:18,527 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-03-06 15:16:18,528 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-03-06 15:16:21,690 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-03-06 15:17:33,839 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-03-06 15:17:36,524 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-03-06 15:17:36,526 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-03-06 15:17:41,430 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-03-06 15:17:41,432 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-03-06 15:17:41,862 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-03-06 15:20:34,224 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-06 15:20:34,419 [INFO    ] Using numpy 1.14.1
+2019-03-06 15:20:38,082 [INFO    ] Using tensorflow 1.6.0
+2019-03-06 15:20:38,173 [INFO    ] Using keras 2.1.4
+2019-03-06 15:20:38,183 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-06 15:20:38,183 [INFO    ] Using scipy 1.1.0
+2019-03-06 15:20:38,399 [INFO    ] Using sklearn 0.19.1
+2019-03-06 15:20:38,695 [INFO    ] Using matplotlib 1.5.2
+2019-03-06 15:20:41,690 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-03-06 15:20:49,522 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-03-06 15:20:49,524 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-03-06 15:21:08,987 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-03-06 15:21:08,989 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-03-06 15:21:12,234 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-03-06 15:21:20,203 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-03-06 15:21:21,415 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-03-06 15:21:21,417 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-03-06 15:21:26,141 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-03-06 15:21:26,143 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-03-06 15:21:26,333 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-03-06 15:23:07,426 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-06 15:23:07,632 [INFO    ] Using numpy 1.14.1
+2019-03-06 15:23:11,395 [INFO    ] Using tensorflow 1.6.0
+2019-03-06 15:23:11,482 [INFO    ] Using keras 2.1.4
+2019-03-06 15:23:11,491 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-06 15:23:11,491 [INFO    ] Using scipy 1.1.0
+2019-03-06 15:23:11,697 [INFO    ] Using sklearn 0.19.1
+2019-03-06 15:23:12,001 [INFO    ] Using matplotlib 1.5.2
+2019-03-06 15:23:51,980 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-03-06 15:23:58,585 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-03-06 15:23:58,587 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-03-06 15:24:17,667 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-03-06 15:24:17,669 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-03-06 15:24:21,048 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-03-06 15:25:22,992 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-06 15:25:23,193 [INFO    ] Using numpy 1.14.1
+2019-03-06 15:25:26,701 [INFO    ] Using tensorflow 1.6.0
+2019-03-06 15:25:26,797 [INFO    ] Using keras 2.1.4
+2019-03-06 15:25:26,804 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-06 15:25:26,804 [INFO    ] Using scipy 1.1.0
+2019-03-06 15:25:27,005 [INFO    ] Using sklearn 0.19.1
+2019-03-06 15:25:27,266 [INFO    ] Using matplotlib 1.5.2
+2019-03-06 15:25:30,559 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-03-06 15:25:37,521 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-03-06 15:25:37,523 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-03-06 15:26:07,700 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-03-06 15:26:07,702 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-03-06 15:26:13,890 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-03-06 15:26:20,423 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-03-06 15:26:21,605 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-03-06 15:26:21,607 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-03-06 15:26:26,402 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-03-06 15:26:26,404 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-03-06 15:26:26,644 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-03-06 15:27:26,487 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-03-06 15:27:28,611 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-03-06 15:27:28,615 [INFO    ] Begin training ...
+2019-03-06 15:29:38,361 [INFO    ] Done training. Time elapsed: 0:02:09.745715 sec
+2019-03-06 15:29:38,468 [INFO    ] Epoch 5/5 - loss: 0.193655142329 - regr_loss: 3.04539061548 - discr_loss: 0.0413856086602 - val_loss: 0.187426558559 - val_regr_loss: 2.94902010547 - val_discr_loss: 0.0399755511365
+2019-03-06 15:31:42,708 [INFO    ] # of entries: 253606, mean: -0.00289809331298, std: 0.0400530844927
+2019-03-06 15:31:42,749 [INFO    ] gaus fit (a, mu, sig): [ 2.23577452e+04 -2.93950614e-03  2.42517063e-02]
+2019-03-06 15:31:47,391 [INFO    ] # of entries: 253606, mean: 0.370710164309, std: 0.257782131433
+2019-03-06 15:31:47,396 [INFO    ] gaus fit (a, mu, sig): [ 2.68222758e+04 -1.13112916e-02  1.33620568e-01]
+2019-03-06 15:32:01,714 [INFO    ] gaus fit (a, mu, sig): [ 1.88904989e+02 -8.89064168e-02  2.22242422e-01]
+2019-03-06 15:32:19,194 [INFO    ] 20 GeV threshold 14.1993465424 rate 312.277130127
+2019-03-06 15:32:19,531 [INFO    ] 22 GeV threshold 15.1495075226 rate 267.530609131
+2019-03-06 15:32:50,824 [INFO    ] auc: 0.964443475085
+2019-03-06 15:32:50,828 [INFO    ] thr: [0.8668, 0.8325, 0.7792, 0.7034, 0.6745, 0.6372, 0.5917, 0.5206, 0.1094]
+2019-03-06 15:32:50,830 [INFO    ] tpr: [0.9004, 0.9254, 0.9504, 0.9700, 0.9751, 0.9804, 0.9851, 0.9900, 0.9990]
+2019-03-06 15:32:50,832 [INFO    ] fpr: [0.1182, 0.1420, 0.1761, 0.2108, 0.2218, 0.2328, 0.2505, 0.2754, 0.4442]
+2019-03-06 15:33:01,747 [INFO    ] auc: 0.988275502462
+2019-03-06 15:33:01,751 [INFO    ] thr: [0.9720, 0.9612, 0.9407, 0.8943, 0.8711, 0.8293, 0.7784, 0.6756, 0.1258]
+2019-03-06 15:33:01,753 [INFO    ] tpr: [0.9003, 0.9267, 0.9507, 0.9706, 0.9751, 0.9810, 0.9853, 0.9902, 0.9990]
+2019-03-06 15:33:01,755 [INFO    ] fpr: [0.0310, 0.0337, 0.0445, 0.0648, 0.0742, 0.0810, 0.0945, 0.1134, 0.3036]
+2019-03-06 15:36:02,466 [INFO    ] nevents: 258400/498400
+2019-03-06 15:36:03,404 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.3089991733, 16.3759866878, 15.2761069462, 13.8096007034, 12.9541386887
+2019-03-06 15:36:56,400 [INFO    ] nevents: 258400/498400
+2019-03-06 15:36:57,355 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.3089991733, 16.3759866878, 15.2761069462, 13.8096007034, 12.9541386887
+2019-03-06 15:37:09,531 [INFO    ] nevents: 258400/498400
+2019-03-06 15:37:10,454 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 12.954138726, 10.0211262405, 8.92124649882, 7.45474025607, 6.5992782414
+2019-03-06 15:37:25,815 [INFO    ] nevents: 258400/498400
+2019-03-06 15:37:27,047 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 12.954138726, 10.0211262405, 8.92124649882, 7.45474025607, 6.5992782414
+2019-03-06 15:37:47,848 [INFO    ] nevents: 258400/498400
+2019-03-06 15:37:49,760 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.3089991733, 16.3759866878, 15.2761069462, 13.8096007034, 12.9541386887
+2019-03-06 15:38:01,992 [INFO    ] nevents: 258400/498400
+2019-03-06 15:38:02,996 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 672.515331022, 580.614269011, 503.500484221, 443.129310362, 389.968459837
+2019-03-06 15:38:28,842 [INFO    ] nevents: 258400/498400
+2019-03-06 15:38:31,252 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.3089991733, 16.3759866878, 15.2761069462, 13.8096007034, 12.9541386887
+2019-03-06 15:39:00,404 [INFO    ] nevents: 258400/498400
+2019-03-06 15:39:01,399 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.3089991733, 16.3759866878, 15.2761069462, 13.8096007034, 12.9541386887
+2019-03-06 15:47:46,238 [INFO    ] nevents: 258400/498400
+2019-03-06 15:47:47,245 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.3089991733, 16.3759866878, 15.2761069462, 13.8096007034, 12.9541386887
+2019-03-06 15:48:00,909 [INFO    ] nevents: 258400/498400
+2019-03-06 15:48:01,913 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.3089991733, 16.3759866878, 15.2761069462, 13.8096007034, 12.9541386887
+2019-03-06 16:04:40,902 [INFO    ] nevents: 258400/498400
+2019-03-06 16:04:42,402 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.3089991733, 16.3759866878, 15.2761069462, 13.8096007034, 12.9541386887
+2019-03-06 16:09:02,670 [INFO    ] nevents: 258400/498400
+2019-03-06 16:09:03,847 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.3089991733, 16.3759866878, 15.2761069462, 13.8096007034, 12.9541386887
+2019-03-06 16:10:10,845 [INFO    ] nevents: 258400/498400
+2019-03-06 16:10:11,885 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.3089991733, 16.3759866878, 15.2761069462, 13.8096007034, 12.9541386887
+2019-03-06 16:10:55,364 [INFO    ] nevents: 258400/498400
+2019-03-06 16:11:00,834 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.3089991733, 16.3759866878, 15.2761069462, 13.8096007034, 12.9541386887
+2019-03-06 16:11:35,587 [INFO    ] nevents: 258400/498400
+2019-03-06 16:11:36,617 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.3089991733, 16.3759866878, 15.2761069462, 13.8096007034, 12.9541386887
+2019-03-06 16:19:06,901 [INFO    ] nevents: 258400/498400
+2019-03-06 16:19:24,920 [INFO    ] nevents: 258400/498400
+2019-03-06 16:20:39,104 [INFO    ] nevents: 258400/498400
+2019-03-06 16:20:49,049 [INFO    ] nevents: 258400/498400
+2019-03-06 17:23:58,891 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-06 17:23:59,100 [INFO    ] Using numpy 1.14.1
+2019-03-06 17:24:04,675 [INFO    ] Using tensorflow 1.6.0
+2019-03-06 17:24:04,766 [INFO    ] Using keras 2.1.4
+2019-03-06 17:24:04,774 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-06 17:24:04,774 [INFO    ] Using scipy 1.1.0
+2019-03-06 17:24:04,998 [INFO    ] Using sklearn 0.19.1
+2019-03-06 17:24:05,349 [INFO    ] Using matplotlib 1.5.2
+2019-03-06 17:24:09,260 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-03-06 17:24:14,669 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-03-06 17:24:14,670 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-03-06 17:24:36,858 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-03-06 17:24:36,860 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-03-06 17:24:39,184 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-03-06 21:46:14,001 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-06 21:46:14,285 [INFO    ] Using numpy 1.14.1
+2019-03-06 21:46:19,845 [INFO    ] Using tensorflow 1.6.0
+2019-03-06 21:46:19,985 [INFO    ] Using keras 2.1.4
+2019-03-06 21:46:19,996 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-06 21:46:19,996 [INFO    ] Using scipy 1.1.0
+2019-03-06 21:46:20,284 [INFO    ] Using sklearn 0.19.1
+2019-03-06 21:46:20,722 [INFO    ] Using matplotlib 1.5.2
+2019-03-06 21:46:25,478 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-03-06 21:46:32,097 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-03-06 21:46:32,099 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-03-06 21:46:51,966 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-03-06 21:46:51,968 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-03-06 21:46:54,269 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-03-06 21:48:40,640 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-06 21:48:40,904 [INFO    ] Using numpy 1.14.1
+2019-03-06 21:48:45,952 [INFO    ] Using tensorflow 1.6.0
+2019-03-06 21:48:46,084 [INFO    ] Using keras 2.1.4
+2019-03-06 21:48:46,097 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-06 21:48:46,098 [INFO    ] Using scipy 1.1.0
+2019-03-06 21:48:46,357 [INFO    ] Using sklearn 0.19.1
+2019-03-06 21:48:46,758 [INFO    ] Using matplotlib 1.5.2
+2019-03-06 21:48:49,933 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-03-06 21:48:56,888 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-03-06 21:48:56,889 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-03-06 21:49:16,290 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-03-06 21:49:16,292 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-03-06 21:49:18,629 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-03-06 21:54:25,496 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-06 21:54:25,727 [INFO    ] Using numpy 1.14.1
+2019-03-06 21:54:30,347 [INFO    ] Using tensorflow 1.6.0
+2019-03-06 21:54:30,476 [INFO    ] Using keras 2.1.4
+2019-03-06 21:54:30,485 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-06 21:54:30,486 [INFO    ] Using scipy 1.1.0
+2019-03-06 21:54:30,747 [INFO    ] Using sklearn 0.19.1
+2019-03-06 21:54:31,138 [INFO    ] Using matplotlib 1.5.2
+2019-03-06 21:54:34,239 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-03-06 21:54:40,291 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-03-06 21:54:40,292 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-03-06 21:55:01,392 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-03-06 21:55:01,395 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-03-06 21:55:03,850 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-03-06 21:55:07,379 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-03-06 21:55:08,768 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-03-06 21:55:08,770 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-03-06 21:55:14,008 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-03-06 21:55:14,010 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-03-06 21:55:14,192 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-03-06 21:55:26,707 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-03-06 21:55:27,837 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-03-06 21:55:27,839 [INFO    ] Begin training ...
+2019-03-06 21:57:58,769 [INFO    ] Done training. Time elapsed: 0:02:30.930088 sec
+2019-03-06 21:57:58,880 [INFO    ] Epoch 5/5 - loss: 0.193655397503 - regr_loss: 3.04539607984 - discr_loss: 0.0413855905321 - val_loss: 0.187425527604 - val_regr_loss: 2.94902949439 - val_discr_loss: 0.039974050026
+2019-03-06 21:58:14,689 [INFO    ] # of entries: 253606, mean: -0.00289918179624, std: 0.0400533676147
+2019-03-06 21:58:14,695 [INFO    ] gaus fit (a, mu, sig): [ 2.23581515e+04 -2.93970172e-03  2.42511336e-02]
+2019-03-06 21:58:17,947 [INFO    ] # of entries: 253606, mean: 0.295321077108, std: 0.257870137691
+2019-03-06 21:58:17,955 [INFO    ] gaus fit (a, mu, sig): [ 2.68244648e+04 -1.13085182e-02  1.33605506e-01]
+2019-03-06 21:58:28,384 [INFO    ] gaus fit (a, mu, sig): [ 1.88838720e+02 -8.87851844e-02  2.22391273e-01]
+2019-03-06 21:58:38,325 [INFO    ] 20 GeV threshold 14.1987400055 rate 312.908996582
+2019-03-06 21:58:38,737 [INFO    ] 22 GeV threshold 15.1479225159 rate 267.54699707
+2019-03-06 21:59:08,221 [INFO    ] auc: 0.964481930862
+2019-03-06 21:59:08,224 [INFO    ] thr: [0.8668, 0.8332, 0.7793, 0.7035, 0.6754, 0.6379, 0.5907, 0.5208, 0.1092]
+2019-03-06 21:59:08,226 [INFO    ] tpr: [0.9004, 0.9250, 0.9504, 0.9700, 0.9750, 0.9803, 0.9853, 0.9900, 0.9990]
+2019-03-06 21:59:08,227 [INFO    ] fpr: [0.1182, 0.1414, 0.1761, 0.2096, 0.2200, 0.2322, 0.2498, 0.2748, 0.4436]
+2019-03-06 21:59:12,168 [INFO    ] auc: 0.988264420212
+2019-03-06 21:59:12,171 [INFO    ] thr: [0.9720, 0.9611, 0.9407, 0.8945, 0.8711, 0.8293, 0.7785, 0.6760, 0.1257]
+2019-03-06 21:59:12,173 [INFO    ] tpr: [0.9003, 0.9270, 0.9507, 0.9706, 0.9751, 0.9810, 0.9853, 0.9902, 0.9990]
+2019-03-06 21:59:12,176 [INFO    ] fpr: [0.0311, 0.0338, 0.0446, 0.0649, 0.0743, 0.0811, 0.0946, 0.1135, 0.3041]
+2019-03-06 22:02:17,523 [INFO    ] nevents: 258400/498400
+2019-03-06 22:02:18,890 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.3089991733, 16.3759866878, 15.2761069462, 13.8096007034, 12.9541386887
+2019-03-06 22:06:00,845 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-06 22:06:01,753 [INFO    ] Using numpy 1.14.1
+2019-03-06 22:06:17,673 [INFO    ] Using tensorflow 1.6.0
+2019-03-06 22:06:17,876 [INFO    ] Using keras 2.1.4
+2019-03-06 22:06:17,885 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-06 22:06:17,886 [INFO    ] Using scipy 1.1.0
+2019-03-06 22:06:18,131 [INFO    ] Using sklearn 0.19.1
+2019-03-06 22:06:18,455 [INFO    ] Using matplotlib 1.5.2
+2019-03-06 22:06:21,728 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-03-06 22:06:28,679 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-03-06 22:06:28,681 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-03-06 22:06:48,956 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-03-06 22:06:48,958 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-03-06 22:06:51,478 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-03-06 22:06:53,807 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-03-06 22:06:54,982 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-03-06 22:06:54,984 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-03-06 22:06:59,353 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-03-06 22:06:59,354 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-03-06 22:06:59,742 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-03-06 22:07:27,637 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-03-06 22:07:28,954 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-03-06 22:07:28,956 [INFO    ] Begin training ...
+2019-03-06 22:08:38,731 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-06 22:08:38,968 [INFO    ] Using numpy 1.14.1
+2019-03-06 22:08:43,612 [INFO    ] Using tensorflow 1.6.0
+2019-03-06 22:08:43,697 [INFO    ] Using keras 2.1.4
+2019-03-06 22:08:43,707 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-06 22:08:43,707 [INFO    ] Using scipy 1.1.0
+2019-03-06 22:08:43,898 [INFO    ] Using sklearn 0.19.1
+2019-03-06 22:08:44,190 [INFO    ] Using matplotlib 1.5.2
+2019-03-06 22:08:49,185 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-03-06 22:08:57,960 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-03-06 22:08:57,961 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-03-06 22:09:20,259 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-03-06 22:09:20,261 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-03-06 22:09:26,947 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-03-06 22:09:29,636 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-03-06 22:09:31,773 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-03-06 22:09:31,774 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-03-06 22:09:37,587 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-03-06 22:09:37,589 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-03-06 22:09:37,812 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-03-06 22:09:50,047 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-03-06 22:09:51,255 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-03-06 22:09:51,257 [INFO    ] Begin training ...
+2019-03-06 23:10:17,084 [INFO    ] Done training. Time elapsed: 1:02:48.127911 sec
+2019-03-06 23:10:17,386 [INFO    ] Epoch 100/100 - loss: 0.174286763433 - regr_loss: 2.76838796606 - discr_loss: 0.0358673623896 - val_loss: 0.171715584406 - val_regr_loss: 2.72520516195 - val_discr_loss: 0.0354553235851
+2019-03-06 23:10:21,082 [INFO    ] # of entries: 253606, mean: 0.000396610848838, std: 0.038151435554
+2019-03-06 23:10:21,094 [INFO    ] gaus fit (a, mu, sig): [ 2.43194712e+04 -4.84170983e-04  2.19720276e-02]
+2019-03-06 23:10:22,077 [INFO    ] # of entries: 253606, mean: 0.365317046642, std: 0.246046245098
+2019-03-06 23:10:22,084 [INFO    ] gaus fit (a, mu, sig): [ 2.86066332e+04 -3.51009804e-03  1.25287401e-01]
+2019-03-06 23:10:26,368 [INFO    ] gaus fit (a, mu, sig): [ 2.06888649e+02 -5.31702491e-02  2.05167186e-01]
+2019-03-06 23:10:29,900 [INFO    ] 20 GeV threshold 15.1750640869 rate 282.905670166
+2019-03-06 23:10:30,278 [INFO    ] 22 GeV threshold 16.2951393127 rate 246.848754883
+2019-03-06 23:10:50,076 [INFO    ] auc: 0.967557172649
+2019-03-06 23:10:50,078 [INFO    ] thr: [0.9116, 0.8832, 0.8421, 0.7857, 0.7648, 0.7360, 0.7011, 0.6415, 0.1373]
+2019-03-06 23:10:50,079 [INFO    ] tpr: [0.9005, 0.9257, 0.9502, 0.9704, 0.9750, 0.9803, 0.9852, 0.9900, 0.9990]
+2019-03-06 23:10:50,081 [INFO    ] fpr: [0.1027, 0.1332, 0.1780, 0.2216, 0.2398, 0.2599, 0.2801, 0.3041, 0.4418]
+2019-03-06 23:10:50,521 [INFO    ] auc: 0.989988718921
+2019-03-06 23:10:50,523 [INFO    ] thr: [0.9864, 0.9803, 0.9638, 0.9324, 0.9245, 0.9044, 0.8639, 0.7754, 0.1884]
+2019-03-06 23:10:50,525 [INFO    ] tpr: [0.9024, 0.9266, 0.9560, 0.9731, 0.9755, 0.9801, 0.9852, 0.9907, 0.9990]
+2019-03-06 23:10:50,527 [INFO    ] fpr: [0.0265, 0.0281, 0.0343, 0.0437, 0.0468, 0.0515, 0.0671, 0.0858, 0.2418]
+2019-03-06 23:12:11,728 [INFO    ] Done training. Time elapsed: 1:02:20.471142 sec
+2019-03-06 23:12:11,907 [INFO    ] Epoch 100/100 - loss: 0.178835937603 - regr_loss: 2.82210708159 - discr_loss: 0.0377305805838 - val_loss: 0.176575075904 - val_regr_loss: 2.78683826703 - val_discr_loss: 0.0372331591208
+2019-03-06 23:12:14,481 [INFO    ] # of entries: 253606, mean: 0.000997141934931, std: 0.0389079675078
+2019-03-06 23:12:14,488 [INFO    ] gaus fit (a, mu, sig): [2.38927910e+04 3.23895217e-04 2.23790237e-02]
+2019-03-06 23:12:15,379 [INFO    ] # of entries: 253606, mean: 0.887484371662, std: 0.248668864369
+2019-03-06 23:12:15,385 [INFO    ] gaus fit (a, mu, sig): [ 2.82302906e+04 -5.55791963e-03  1.27139611e-01]
+2019-03-06 23:12:18,835 [INFO    ] gaus fit (a, mu, sig): [ 2.03635572e+02 -7.32902770e-02  2.04288648e-01]
+2019-03-06 23:12:22,591 [INFO    ] 20 GeV threshold 14.7684831619 rate 270.155212402
+2019-03-06 23:12:23,029 [INFO    ] 22 GeV threshold 15.8037776947 rate 237.03364563
+2019-03-06 23:12:40,100 [INFO    ] auc: 0.956552044651
+2019-03-06 23:12:40,102 [INFO    ] thr: [0.9019, 0.8716, 0.8260, 0.7651, 0.7437, 0.7154, 0.6750, 0.6079, 0.1477]
+2019-03-06 23:12:40,105 [INFO    ] tpr: [0.9002, 0.9254, 0.9506, 0.9707, 0.9752, 0.9800, 0.9851, 0.9902, 0.9990]
+2019-03-06 23:12:40,106 [INFO    ] fpr: [0.1454, 0.1841, 0.2276, 0.2772, 0.2948, 0.3091, 0.3308, 0.3546, 0.5122]
+2019-03-06 23:12:40,610 [INFO    ] auc: 0.983867960922
+2019-03-06 23:12:40,613 [INFO    ] thr: [0.9793, 0.9679, 0.9562, 0.9248, 0.9100, 0.8771, 0.8425, 0.7702, 0.1818]
+2019-03-06 23:12:40,615 [INFO    ] tpr: [0.9007, 0.9326, 0.9500, 0.9706, 0.9751, 0.9814, 0.9855, 0.9900, 0.9990]
+2019-03-06 23:12:40,617 [INFO    ] fpr: [0.0413, 0.0446, 0.0529, 0.0843, 0.0942, 0.1107, 0.1223, 0.1471, 0.3421]
+2019-03-06 23:14:43,592 [INFO    ] nevents: 258400/498400
+2019-03-06 23:14:44,912 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 20.6532967761, 19.0645816997, 17.3536576703, 14.9094805196, 13.5651831105
+2019-03-06 23:28:34,975 [INFO    ] nevents: 258400/498400
+2019-03-06 23:28:36,217 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.7978348508, 17.4758665338, 15.7649425045, 14.0540184751, 12.0986767784
+2019-03-07 00:23:18,830 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-07 00:23:19,032 [INFO    ] Using numpy 1.14.1
+2019-03-07 00:23:24,264 [INFO    ] Using tensorflow 1.6.0
+2019-03-07 00:23:24,392 [INFO    ] Using keras 2.1.4
+2019-03-07 00:23:24,402 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-07 00:23:24,403 [INFO    ] Using scipy 1.1.0
+2019-03-07 00:23:24,681 [INFO    ] Using sklearn 0.19.1
+2019-03-07 00:23:25,096 [INFO    ] Using matplotlib 1.5.2
+2019-03-07 00:23:26,120 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-03-07 00:23:31,566 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-03-07 00:23:31,567 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-03-07 00:23:54,470 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-03-07 00:23:54,473 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-03-07 00:23:57,256 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-03-07 00:24:00,284 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-03-07 00:24:01,897 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-03-07 00:24:01,899 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-03-07 00:24:05,257 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-03-07 00:24:05,259 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-03-07 00:24:05,455 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-03-07 00:24:27,406 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-03-07 00:24:28,460 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-03-07 00:24:28,462 [INFO    ] Begin training ...
+2019-03-07 00:25:13,155 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-07 00:25:13,509 [INFO    ] Using numpy 1.14.1
+2019-03-07 00:25:19,231 [INFO    ] Using tensorflow 1.6.0
+2019-03-07 00:25:19,364 [INFO    ] Using keras 2.1.4
+2019-03-07 00:25:19,376 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-07 00:25:19,377 [INFO    ] Using scipy 1.1.0
+2019-03-07 00:25:19,684 [INFO    ] Using sklearn 0.19.1
+2019-03-07 00:25:20,135 [INFO    ] Using matplotlib 1.5.2
+2019-03-07 00:25:21,164 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-03-07 00:25:29,354 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-03-07 00:25:29,356 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-03-07 00:25:56,362 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-03-07 00:25:56,365 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-03-07 00:26:01,030 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-03-07 00:26:04,385 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-03-07 00:26:06,546 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-03-07 00:26:06,547 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-03-07 00:26:11,485 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-03-07 00:26:11,486 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-03-07 00:26:11,717 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-03-07 00:26:24,369 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-03-07 00:26:25,665 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-03-07 00:26:25,667 [INFO    ] Begin training ...
+2019-03-07 03:32:32,274 [INFO    ] Done training. Time elapsed: 3:08:03.811323 sec
+2019-03-07 03:32:32,852 [INFO    ] Epoch 300/300 - loss: 0.171298548269 - regr_loss: 2.72912196265 - discr_loss: 0.0348424472846 - val_loss: 0.16981482661 - val_regr_loss: 2.69884205126 - val_discr_loss: 0.0348727210347
+2019-03-07 03:32:39,364 [INFO    ] # of entries: 253606, mean: -0.000859009916894, std: 0.0378650836647
+2019-03-07 03:32:39,432 [INFO    ] gaus fit (a, mu, sig): [ 2.45391856e+04 -4.38518334e-04  2.17609805e-02]
+2019-03-07 03:32:40,488 [INFO    ] # of entries: 253606, mean: 0.279319047928, std: 0.241389006376
+2019-03-07 03:32:40,497 [INFO    ] gaus fit (a, mu, sig): [ 2.88899594e+04 -4.33043977e-03  1.24555913e-01]
+2019-03-07 03:32:44,647 [INFO    ] gaus fit (a, mu, sig): [ 2.16411433e+02 -5.66626457e-02  1.95954627e-01]
+2019-03-07 03:32:48,315 [INFO    ] 20 GeV threshold 15.1679353714 rate 264.215881348
+2019-03-07 03:32:48,844 [INFO    ] 22 GeV threshold 16.2049293518 rate 230.041091919
+2019-03-07 03:33:10,629 [INFO    ] auc: 0.968223759126
+2019-03-07 03:33:10,632 [INFO    ] thr: [0.9001, 0.8696, 0.8277, 0.7667, 0.7454, 0.7177, 0.6830, 0.6195, 0.1535]
+2019-03-07 03:33:10,634 [INFO    ] tpr: [0.9005, 0.9257, 0.9503, 0.9703, 0.9751, 0.9802, 0.9851, 0.9901, 0.9990]
+2019-03-07 03:33:10,636 [INFO    ] fpr: [0.0986, 0.1350, 0.1715, 0.2188, 0.2350, 0.2512, 0.2762, 0.2998, 0.4301]
+2019-03-07 03:33:11,269 [INFO    ] auc: 0.989636608967
+2019-03-07 03:33:11,271 [INFO    ] thr: [0.9850, 0.9776, 0.9632, 0.9275, 0.9175, 0.8881, 0.8457, 0.7796, 0.2053]
+2019-03-07 03:33:11,273 [INFO    ] tpr: [0.9010, 0.9278, 0.9521, 0.9717, 0.9751, 0.9801, 0.9859, 0.9904, 0.9990]
+2019-03-07 03:33:11,275 [INFO    ] fpr: [0.0220, 0.0252, 0.0346, 0.0457, 0.0504, 0.0551, 0.0709, 0.0866, 0.2457]
+2019-03-07 03:35:40,762 [INFO    ] nevents: 258400/498400
+2019-03-07 03:35:42,148 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.0645814836, 16.3759866655, 14.5428538024, 13.0763475597, 11.3654235303
+2019-03-07 03:36:39,552 [INFO    ] Done training. Time elapsed: 3:10:13.884581 sec
+2019-03-07 03:36:39,820 [INFO    ] Epoch 300/300 - loss: 0.17623257143 - regr_loss: 2.78846980185 - discr_loss: 0.0368090783992 - val_loss: 0.174657920086 - val_regr_loss: 2.76326721751 - val_discr_loss: 0.0364945560306
+2019-03-07 03:36:42,661 [INFO    ] # of entries: 253606, mean: -0.000926374108531, std: 0.0386895164847
+2019-03-07 03:36:42,666 [INFO    ] gaus fit (a, mu, sig): [ 2.41169883e+04 -5.61439755e-04  2.21630780e-02]
+2019-03-07 03:36:43,655 [INFO    ] # of entries: 253606, mean: 0.374900251627, std: 0.244903296232
+2019-03-07 03:36:43,660 [INFO    ] gaus fit (a, mu, sig): [ 2.85271982e+04 -6.72212547e-03  1.25814699e-01]
+2019-03-07 03:36:47,242 [INFO    ] gaus fit (a, mu, sig): [ 2.05465333e+02 -6.68697170e-02  2.04291936e-01]
+2019-03-07 03:36:50,650 [INFO    ] 20 GeV threshold 14.884428978 rate 274.754638672
+2019-03-07 03:36:50,984 [INFO    ] 22 GeV threshold 15.7704668045 rate 240.238891602
+2019-03-07 03:37:07,784 [INFO    ] auc: 0.959539826151
+2019-03-07 03:37:07,787 [INFO    ] thr: [0.8892, 0.8570, 0.8090, 0.7456, 0.7224, 0.6890, 0.6461, 0.5748, 0.1149]
+2019-03-07 03:37:07,789 [INFO    ] tpr: [0.9001, 0.9251, 0.9503, 0.9701, 0.9751, 0.9804, 0.9851, 0.9903, 0.9990]
+2019-03-07 03:37:07,792 [INFO    ] fpr: [0.1346, 0.1736, 0.2221, 0.2564, 0.2725, 0.2954, 0.3149, 0.3445, 0.5074]
+2019-03-07 03:37:08,175 [INFO    ] auc: 0.986579485448
+2019-03-07 03:37:08,178 [INFO    ] thr: [0.9728, 0.9663, 0.9452, 0.9054, 0.8874, 0.8545, 0.8021, 0.7113, 0.1637]
+2019-03-07 03:37:08,181 [INFO    ] tpr: [0.9093, 0.9253, 0.9507, 0.9707, 0.9751, 0.9809, 0.9852, 0.9902, 0.9990]
+2019-03-07 03:37:08,183 [INFO    ] fpr: [0.0365, 0.0380, 0.0491, 0.0761, 0.0887, 0.0998, 0.1094, 0.1395, 0.3185]
+2019-03-07 03:39:12,310 [INFO    ] nevents: 258400/498400
+2019-03-07 03:39:15,667 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 20.286669977, 17.4758663252, 16.0093600824, 14.420645006, 13.0763475969
+2019-03-21 11:32:53,049 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-03-21 11:32:53,438 [INFO    ] Using numpy 1.14.1
+2019-03-21 11:33:05,520 [INFO    ] Using tensorflow 1.6.0
+2019-03-21 11:33:05,683 [INFO    ] Using keras 2.1.4
+2019-03-21 11:33:05,694 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-03-21 11:33:05,695 [INFO    ] Using scipy 1.1.0
+2019-03-21 11:33:06,018 [INFO    ] Using sklearn 0.19.1
+2019-03-21 11:33:06,477 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 17:06:55,786 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-08 17:06:56,370 [INFO    ] Using numpy 1.14.1
+2019-04-08 17:07:05,538 [INFO    ] Using tensorflow 1.6.0
+2019-04-08 17:07:05,750 [INFO    ] Using keras 2.1.4
+2019-04-08 17:07:05,765 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-08 17:07:05,766 [INFO    ] Using scipy 1.1.0
+2019-04-08 17:07:06,169 [INFO    ] Using sklearn 0.19.1
+2019-04-08 17:07:06,720 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 17:07:44,459 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-08 17:07:50,881 [INFO    ] Loaded the variables with shape (560383, 87)
+2019-04-08 17:07:50,883 [INFO    ] Loaded the parameters with shape (560383, 3)
+2019-04-08 17:07:53,213 [INFO    ] Loaded the encoded variables with shape (560383, 54)
+2019-04-08 17:07:53,215 [INFO    ] Loaded the encoded parameters with shape (560383,)
+2019-04-08 17:07:53,335 [INFO    ] Loaded # of training and testing events: (386664, 173719)
+2019-04-08 17:07:53,337 [WARNING ] The last batch for training could be too few! (347997%128)=93. Please change test_size.
+2019-04-08 17:07:53,339 [WARNING ] Try this formula: int(int(560383*0.69)*0.9) % 128
+2019-04-08 17:07:53,340 [WARNING ] The last batch for training after mixing could be too few! (695995%128)=59. Please change test_size.
+2019-04-08 17:07:53,341 [WARNING ] Try this formula: int(int(560383*0.69)*2*0.9) % 128
+2019-04-08 18:04:11,425 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-08 18:04:11,745 [INFO    ] Using numpy 1.14.1
+2019-04-08 18:04:17,616 [INFO    ] Using tensorflow 1.6.0
+2019-04-08 18:04:17,770 [INFO    ] Using keras 2.1.4
+2019-04-08 18:04:17,781 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-08 18:04:17,781 [INFO    ] Using scipy 1.1.0
+2019-04-08 18:04:18,129 [INFO    ] Using sklearn 0.19.1
+2019-04-08 18:04:18,616 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 18:04:47,362 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-08 18:04:47,550 [INFO    ] Using numpy 1.14.1
+2019-04-08 18:04:50,757 [INFO    ] Using tensorflow 1.6.0
+2019-04-08 18:04:50,840 [INFO    ] Using keras 2.1.4
+2019-04-08 18:04:50,852 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-08 18:04:50,852 [INFO    ] Using scipy 1.1.0
+2019-04-08 18:04:50,946 [INFO    ] Using sklearn 0.19.1
+2019-04-08 18:04:51,334 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 18:04:55,067 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-08 18:05:00,948 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-08 18:05:00,949 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-08 18:05:20,770 [INFO    ] Loaded the encoded variables with shape (3272341, 54)
+2019-04-08 18:05:20,771 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-08 18:05:21,963 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-08 18:07:55,038 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-08 18:07:55,319 [INFO    ] Using numpy 1.14.1
+2019-04-08 18:08:00,965 [INFO    ] Using tensorflow 1.6.0
+2019-04-08 18:08:01,115 [INFO    ] Using keras 2.1.4
+2019-04-08 18:08:01,127 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-08 18:08:01,127 [INFO    ] Using scipy 1.1.0
+2019-04-08 18:08:01,436 [INFO    ] Using sklearn 0.19.1
+2019-04-08 18:08:01,882 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 18:08:02,892 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-08 18:08:08,848 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-08 18:08:08,849 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-08 18:08:32,040 [INFO    ] Loaded the encoded variables with shape (3272341, 54)
+2019-04-08 18:08:32,041 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-08 18:08:33,481 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-08 18:08:43,610 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-08 18:08:43,805 [INFO    ] Using numpy 1.14.1
+2019-04-08 18:08:47,154 [INFO    ] Using tensorflow 1.6.0
+2019-04-08 18:08:47,234 [INFO    ] Using keras 2.1.4
+2019-04-08 18:08:47,246 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-08 18:08:47,247 [INFO    ] Using scipy 1.1.0
+2019-04-08 18:08:47,339 [INFO    ] Using sklearn 0.19.1
+2019-04-08 18:08:47,725 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 18:08:48,312 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-08 18:08:52,648 [ERROR   ] Failed to load data from file: /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz
+2019-04-08 18:09:04,700 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-08 18:09:04,987 [INFO    ] Using numpy 1.14.1
+2019-04-08 18:09:10,549 [INFO    ] Using tensorflow 1.6.0
+2019-04-08 18:09:10,692 [INFO    ] Using keras 2.1.4
+2019-04-08 18:09:10,703 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-08 18:09:10,703 [INFO    ] Using scipy 1.1.0
+2019-04-08 18:09:11,012 [INFO    ] Using sklearn 0.19.1
+2019-04-08 18:09:11,449 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 18:09:12,501 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-08 18:09:18,366 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-08 18:09:18,367 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-08 18:09:40,815 [INFO    ] Loaded the encoded variables with shape (3272341, 54)
+2019-04-08 18:09:40,817 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-08 18:09:42,271 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-08 18:09:47,127 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-08 18:09:47,309 [INFO    ] Using numpy 1.14.1
+2019-04-08 18:09:50,514 [INFO    ] Using tensorflow 1.6.0
+2019-04-08 18:09:50,593 [INFO    ] Using keras 2.1.4
+2019-04-08 18:09:50,603 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-08 18:09:50,604 [INFO    ] Using scipy 1.1.0
+2019-04-08 18:09:50,694 [INFO    ] Using sklearn 0.19.1
+2019-04-08 18:09:51,073 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 18:09:51,532 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-08 18:09:57,278 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-08 18:09:57,280 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-08 18:10:18,305 [INFO    ] Loaded the encoded variables with shape (3272341, 54)
+2019-04-08 18:10:18,307 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-08 18:10:19,786 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-08 18:10:33,370 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-08 18:10:33,674 [INFO    ] Using numpy 1.14.1
+2019-04-08 18:10:39,388 [INFO    ] Using tensorflow 1.6.0
+2019-04-08 18:10:39,532 [INFO    ] Using keras 2.1.4
+2019-04-08 18:10:39,543 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-08 18:10:39,544 [INFO    ] Using scipy 1.1.0
+2019-04-08 18:10:39,876 [INFO    ] Using sklearn 0.19.1
+2019-04-08 18:10:40,300 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 18:10:41,465 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-08 18:10:47,303 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-08 18:10:47,305 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-08 18:11:14,857 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-08 18:11:15,050 [INFO    ] Using numpy 1.14.1
+2019-04-08 18:11:18,337 [INFO    ] Using tensorflow 1.6.0
+2019-04-08 18:11:18,420 [INFO    ] Using keras 2.1.4
+2019-04-08 18:11:18,432 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-08 18:11:18,433 [INFO    ] Using scipy 1.1.0
+2019-04-08 18:11:18,523 [INFO    ] Using sklearn 0.19.1
+2019-04-08 18:11:18,904 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 18:11:19,463 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-08 18:11:25,182 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-08 18:11:25,183 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-08 18:11:46,004 [INFO    ] Loaded the encoded variables with shape (3272341, 54)
+2019-04-08 18:11:46,005 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-08 18:11:47,024 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-08 20:46:03,408 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-08 20:46:03,696 [INFO    ] Using numpy 1.14.1
+2019-04-08 20:46:09,904 [INFO    ] Using tensorflow 1.6.0
+2019-04-08 20:46:10,076 [INFO    ] Using keras 2.1.4
+2019-04-08 20:46:10,087 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-08 20:46:10,087 [INFO    ] Using scipy 1.1.0
+2019-04-08 20:46:10,373 [INFO    ] Using sklearn 0.19.1
+2019-04-08 20:46:10,834 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 20:46:14,564 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-08 20:46:35,684 [ERROR   ] Failed to load data from file: /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz
+2019-04-08 20:47:29,503 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-08 20:47:29,812 [INFO    ] Using numpy 1.14.1
+2019-04-08 20:47:35,401 [INFO    ] Using tensorflow 1.6.0
+2019-04-08 20:47:35,536 [INFO    ] Using keras 2.1.4
+2019-04-08 20:47:35,548 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-08 20:47:35,548 [INFO    ] Using scipy 1.1.0
+2019-04-08 20:47:35,849 [INFO    ] Using sklearn 0.19.1
+2019-04-08 20:47:36,274 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 20:47:37,326 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-08 20:47:47,301 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-08 20:47:47,303 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-08 20:48:17,649 [INFO    ] Loaded the encoded variables with shape (3272341, 54)
+2019-04-08 20:48:17,652 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-08 20:48:19,044 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-08 20:51:20,363 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-08 20:51:20,649 [INFO    ] Using numpy 1.14.1
+2019-04-08 20:51:26,295 [INFO    ] Using tensorflow 1.6.0
+2019-04-08 20:51:26,445 [INFO    ] Using keras 2.1.4
+2019-04-08 20:51:26,455 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-08 20:51:26,456 [INFO    ] Using scipy 1.1.0
+2019-04-08 20:51:26,785 [INFO    ] Using sklearn 0.19.1
+2019-04-08 20:51:27,208 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 20:51:28,258 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-08 20:51:34,028 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-08 20:51:34,030 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-08 20:51:52,363 [INFO    ] Loaded the encoded variables with shape (3272341, 54)
+2019-04-08 20:51:52,365 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-08 20:51:53,514 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-08 20:56:18,753 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-08 20:56:19,055 [INFO    ] Using numpy 1.14.1
+2019-04-08 20:56:24,819 [INFO    ] Using tensorflow 1.6.0
+2019-04-08 20:56:24,977 [INFO    ] Using keras 2.1.4
+2019-04-08 20:56:24,990 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-08 20:56:24,991 [INFO    ] Using scipy 1.1.0
+2019-04-08 20:56:25,301 [INFO    ] Using sklearn 0.19.1
+2019-04-08 20:56:25,742 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 20:56:26,755 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-08 20:56:32,517 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-08 20:56:32,518 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-08 20:56:50,730 [INFO    ] Loaded the encoded variables with shape (3272341, 54)
+2019-04-08 20:56:50,732 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-08 20:56:51,884 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-08 20:56:51,928 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-08 20:56:53,413 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-08 20:56:53,415 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-08 20:56:56,913 [INFO    ] Loaded the encoded variables with shape (816244, 54)
+2019-04-08 20:56:56,914 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-08 20:56:57,071 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-08 20:57:20,146 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 54), y_train_new has shape (4515830,),(4515830,)
+2019-04-08 20:57:21,356 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-08 20:57:21,357 [INFO    ] Begin training ...
+2019-04-08 21:15:39,439 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-08 21:15:39,733 [INFO    ] Using numpy 1.14.1
+2019-04-08 21:15:45,815 [INFO    ] Using tensorflow 1.6.0
+2019-04-08 21:15:45,966 [INFO    ] Using keras 2.1.4
+2019-04-08 21:15:46,556 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-08 21:15:46,556 [INFO    ] Using scipy 1.1.0
+2019-04-08 21:15:46,839 [INFO    ] Using sklearn 0.19.1
+2019-04-08 21:15:47,264 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 21:15:48,347 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-08 21:16:01,310 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-08 21:16:01,312 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-08 21:16:26,074 [INFO    ] Loaded the encoded variables with shape (3272341, 54)
+2019-04-08 21:16:26,077 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-08 21:16:31,777 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-08 21:16:37,842 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-08 21:16:40,729 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-08 21:16:40,731 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-08 21:16:46,158 [INFO    ] Loaded the encoded variables with shape (816244, 54)
+2019-04-08 21:16:46,160 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-08 21:16:46,599 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-08 21:16:56,865 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 54), y_train_new has shape (4515830,),(4515830,)
+2019-04-08 21:16:58,237 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-08 21:16:58,238 [INFO    ] Begin training ...
+2019-04-08 21:20:53,347 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-08 21:20:53,726 [INFO    ] Using numpy 1.14.1
+2019-04-08 21:21:01,836 [INFO    ] Using tensorflow 1.6.0
+2019-04-08 21:21:02,302 [INFO    ] Using keras 2.1.4
+2019-04-08 21:21:02,315 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-08 21:21:02,315 [INFO    ] Using scipy 1.1.0
+2019-04-08 21:21:02,890 [INFO    ] Using sklearn 0.19.1
+2019-04-08 21:21:04,128 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 21:21:08,038 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-08 21:21:30,045 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-08 21:21:30,047 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-08 21:22:02,315 [INFO    ] Loaded the encoded variables with shape (3272341, 54)
+2019-04-08 21:22:02,318 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-08 21:22:03,389 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-08 21:23:03,163 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-08 21:23:03,417 [INFO    ] Using numpy 1.14.1
+2019-04-08 21:23:09,336 [INFO    ] Using tensorflow 1.6.0
+2019-04-08 21:23:09,480 [INFO    ] Using keras 2.1.4
+2019-04-08 21:23:09,490 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-08 21:23:09,492 [INFO    ] Using scipy 1.1.0
+2019-04-08 21:23:09,828 [INFO    ] Using sklearn 0.19.1
+2019-04-08 21:23:10,254 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 21:23:11,364 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-08 21:23:17,072 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-08 21:23:17,073 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-08 21:23:33,733 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-08 21:23:33,735 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-08 21:23:35,436 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-08 21:23:35,493 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-08 21:23:37,086 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-08 21:23:37,088 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-08 21:23:40,106 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-08 21:23:40,108 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-08 21:23:40,296 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-08 21:24:05,075 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-08 21:24:06,141 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-08 21:24:06,143 [INFO    ] Begin training ...
+2019-04-08 21:26:54,914 [INFO    ] Done training. Time elapsed: 0:02:48.770260 sec
+2019-04-08 21:26:55,069 [INFO    ] Epoch 5/5 - loss: 0.198874831225 - regr_loss: 3.10640891849 - discr_loss: 0.0435543825311 - val_loss: 0.192980254638 - val_regr_loss: 2.99509052328 - val_discr_loss: 0.0432257254314
+2019-04-08 21:29:51,788 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-08 21:29:52,092 [INFO    ] Using numpy 1.14.1
+2019-04-08 21:29:57,418 [INFO    ] Using tensorflow 1.6.0
+2019-04-08 21:29:57,562 [INFO    ] Using keras 2.1.4
+2019-04-08 21:29:57,574 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-08 21:29:57,574 [INFO    ] Using scipy 1.1.0
+2019-04-08 21:29:57,861 [INFO    ] Using sklearn 0.19.1
+2019-04-08 21:29:58,316 [INFO    ] Using matplotlib 1.5.2
+2019-04-08 21:30:52,943 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-08 21:30:59,159 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-08 21:30:59,161 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-08 21:31:18,994 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-08 21:31:18,996 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-08 21:31:21,112 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-08 21:31:47,475 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-08 21:31:53,119 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-08 21:31:53,120 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-08 21:32:13,844 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-08 21:32:13,846 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-08 21:32:15,950 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-08 21:38:55,658 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-08 21:38:56,940 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-08 21:38:56,941 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-08 21:39:00,594 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-08 21:39:00,595 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-08 21:39:00,791 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-08 21:39:05,621 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-08 21:39:06,690 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-08 21:39:06,692 [INFO    ] Begin training ...
+2019-04-08 21:41:32,723 [INFO    ] Done training. Time elapsed: 0:02:26.031600 sec
+2019-04-08 21:41:32,846 [INFO    ] Epoch 5/5 - loss: 0.195629620863 - regr_loss: 3.05407395271 - discr_loss: 0.0429259203362 - val_loss: 0.198422804322 - val_regr_loss: 3.13764562172 - val_discr_loss: 0.0415405205094
+2019-04-08 21:41:48,651 [INFO    ] # of entries: 167450, mean: -0.00659455591813, std: 0.0429451130331
+2019-04-08 21:41:48,687 [INFO    ] gaus fit (a, mu, sig): [ 1.32559919e+04 -8.66010810e-03  2.71188514e-02]
+2019-04-08 21:41:56,135 [INFO    ] # of entries: 167450, mean: 0.578152179718, std: 0.306680142879
+2019-04-08 21:41:56,144 [INFO    ] gaus fit (a, mu, sig): [ 1.60436617e+04 -5.32901543e-03 -1.40210411e-01]
+2019-04-08 21:44:45,623 [INFO    ] gaus fit (a, mu, sig): [92.40856847 -0.20370587  0.20767224]
+2019-04-08 21:46:07,188 [INFO    ] auc: 0.950953341773
+2019-04-08 21:46:07,190 [INFO    ] thr: [0.8505, 0.8097, 0.7492, 0.6612, 0.6255, 0.5861, 0.5245, 0.4351, 0.0743]
+2019-04-08 21:46:07,192 [INFO    ] tpr: [0.9008, 0.9250, 0.9503, 0.9701, 0.9750, 0.9801, 0.9852, 0.9902, 0.9991]
+2019-04-08 21:46:07,194 [INFO    ] fpr: [0.1553, 0.1843, 0.2367, 0.2827, 0.3040, 0.3215, 0.3461, 0.3871, 0.5451]
+2019-04-08 21:46:11,264 [INFO    ] auc: 0.976564191291
+2019-04-08 21:46:11,265 [INFO    ] thr: [0.9402, 0.9206, 0.8872, 0.8184, 0.7908, 0.7539, 0.6713, 0.5910, 0.1076]
+2019-04-08 21:46:11,267 [INFO    ] tpr: [0.9038, 0.9281, 0.9509, 0.9710, 0.9758, 0.9806, 0.9868, 0.9906, 0.9991]
+2019-04-08 21:46:11,269 [INFO    ] fpr: [0.0606, 0.0714, 0.0836, 0.1024, 0.1146, 0.1253, 0.1402, 0.1631, 0.3747]
+2019-04-08 21:48:29,413 [INFO    ] nevents: 258400/498400
+2019-04-08 21:48:30,637 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 25.1750241444, 22.1198028252, 20.2866699621, 18.8201637194, 17.2314486429
+2019-04-11 20:43:18,888 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-11 20:43:19,125 [INFO    ] Using numpy 1.14.1
+2019-04-11 20:43:24,358 [INFO    ] Using tensorflow 1.6.0
+2019-04-11 20:43:24,491 [INFO    ] Using keras 2.1.4
+2019-04-11 20:43:24,502 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-11 20:43:24,502 [INFO    ] Using scipy 1.1.0
+2019-04-11 20:43:24,770 [INFO    ] Using sklearn 0.19.1
+2019-04-11 20:43:25,201 [INFO    ] Using matplotlib 1.5.2
+2019-04-11 20:43:41,886 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-11 20:43:47,830 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-11 20:43:47,833 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-11 20:44:11,792 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-11 20:44:11,795 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-11 20:44:13,890 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-11 20:46:21,170 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-11 20:46:21,428 [INFO    ] Using numpy 1.14.1
+2019-04-11 20:46:26,945 [INFO    ] Using tensorflow 1.6.0
+2019-04-11 20:46:27,093 [INFO    ] Using keras 2.1.4
+2019-04-11 20:46:27,107 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-11 20:46:27,108 [INFO    ] Using scipy 1.1.0
+2019-04-11 20:46:27,418 [INFO    ] Using sklearn 0.19.1
+2019-04-11 20:46:27,848 [INFO    ] Using matplotlib 1.5.2
+2019-04-11 20:46:32,621 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-11 20:46:38,478 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-11 20:46:38,480 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-11 20:46:59,292 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-11 20:46:59,293 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-11 20:47:01,556 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-11 20:47:35,871 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-11 20:47:36,173 [INFO    ] Using numpy 1.14.1
+2019-04-11 20:47:41,621 [INFO    ] Using tensorflow 1.6.0
+2019-04-11 20:47:41,763 [INFO    ] Using keras 2.1.4
+2019-04-11 20:47:41,774 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-11 20:47:41,775 [INFO    ] Using scipy 1.1.0
+2019-04-11 20:47:42,087 [INFO    ] Using sklearn 0.19.1
+2019-04-11 20:47:42,504 [INFO    ] Using matplotlib 1.5.2
+2019-04-11 20:49:18,954 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-11 20:49:24,677 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-11 20:49:24,679 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-11 20:49:46,214 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-11 20:49:46,216 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-11 20:49:48,638 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-11 20:54:20,073 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-11 20:54:20,390 [INFO    ] Using numpy 1.14.1
+2019-04-11 20:54:25,904 [INFO    ] Using tensorflow 1.6.0
+2019-04-11 20:54:26,048 [INFO    ] Using keras 2.1.4
+2019-04-11 20:54:26,060 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-11 20:54:26,060 [INFO    ] Using scipy 1.1.0
+2019-04-11 20:54:26,356 [INFO    ] Using sklearn 0.19.1
+2019-04-11 20:54:26,757 [INFO    ] Using matplotlib 1.5.2
+2019-04-11 20:54:32,308 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-11 20:54:38,143 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-11 20:54:38,145 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-11 20:55:00,867 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-11 20:55:00,869 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-11 20:55:03,587 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-11 20:56:35,222 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-11 20:56:36,665 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-11 20:56:36,666 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-11 20:56:39,697 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-11 20:56:39,700 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-11 20:56:39,880 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-11 20:57:19,940 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-11 20:57:21,442 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-11 20:57:21,444 [INFO    ] Begin training ...
+2019-04-11 21:00:01,986 [INFO    ] Done training. Time elapsed: 0:02:40.541674 sec
+2019-04-11 21:00:02,098 [INFO    ] Epoch 5/5 - loss: 0.193655310775 - regr_loss: 3.04539371609 - discr_loss: 0.0413856219487 - val_loss: 0.187426759468 - val_regr_loss: 2.94902430124 - val_discr_loss: 0.039975541667
+2019-04-11 21:00:33,080 [INFO    ] # of entries: 167319, mean: -0.00285791209899, std: 0.0419294573367
+2019-04-11 21:00:33,087 [INFO    ] gaus fit (a, mu, sig): [ 1.36668407e+04 -3.34872927e-03  2.61980349e-02]
+2019-04-11 21:00:34,082 [INFO    ] # of entries: 167319, mean: 0.440259218216, std: 0.256496876478
+2019-04-11 21:00:34,087 [INFO    ] gaus fit (a, mu, sig): [ 1.71319033e+04 -5.91267756e-03 -1.38854897e-01]
+2019-04-11 21:00:43,426 [INFO    ] gaus fit (a, mu, sig): [ 1.12946718e+02 -8.94677428e-02  2.25555631e-01]
+2019-04-11 21:01:05,050 [INFO    ] 20 GeV threshold 14.0506515503 rate 189.585128784
+2019-04-11 21:01:05,253 [INFO    ] 22 GeV threshold 14.9982557297 rate 165.130950928
+2019-04-11 21:01:29,846 [INFO    ] auc: 0.962074518447
+2019-04-11 21:01:29,849 [INFO    ] thr: [0.8619, 0.8275, 0.7730, 0.6970, 0.6646, 0.6298, 0.5792, 0.5040, 0.1042]
+2019-04-11 21:01:29,850 [INFO    ] tpr: [0.9001, 0.9251, 0.9510, 0.9701, 0.9757, 0.9800, 0.9851, 0.9901, 0.9990]
+2019-04-11 21:01:29,852 [INFO    ] fpr: [0.1213, 0.1444, 0.1798, 0.2139, 0.2243, 0.2358, 0.2553, 0.2821, 0.4479]
+2019-04-11 21:01:30,221 [INFO    ] auc: 0.985597119735
+2019-04-11 21:01:30,223 [INFO    ] thr: [0.9613, 0.9422, 0.9148, 0.8481, 0.8186, 0.7783, 0.7043, 0.6011, 0.1216]
+2019-04-11 21:01:30,225 [INFO    ] tpr: [0.9023, 0.9318, 0.9518, 0.9714, 0.9755, 0.9802, 0.9851, 0.9904, 0.9990]
+2019-04-11 21:01:30,226 [INFO    ] fpr: [0.0338, 0.0419, 0.0581, 0.0757, 0.0824, 0.0946, 0.1108, 0.1257, 0.3068]
+2019-04-11 21:03:15,539 [INFO    ] nevents: 258400/498400
+2019-04-11 21:03:16,738 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.3089991733, 16.3759866878, 15.2761069462, 13.8096007034, 12.9541386887
+2019-04-11 22:54:10,445 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-11 22:54:10,860 [INFO    ] Using numpy 1.14.1
+2019-04-11 22:54:16,994 [INFO    ] Using tensorflow 1.6.0
+2019-04-11 22:54:17,150 [INFO    ] Using keras 2.1.4
+2019-04-11 22:54:17,162 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-11 22:54:17,162 [INFO    ] Using scipy 1.1.0
+2019-04-11 22:54:17,716 [INFO    ] Using sklearn 0.19.1
+2019-04-11 22:54:18,214 [INFO    ] Using matplotlib 1.5.2
+2019-04-11 22:54:19,308 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-11 22:54:25,156 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-11 22:54:25,158 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-11 22:54:47,112 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-11 22:54:47,114 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-11 22:54:49,479 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-11 22:54:49,659 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-11 22:54:50,988 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-11 22:54:50,990 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-11 22:54:54,015 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-11 22:54:54,017 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-11 22:54:54,213 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-11 22:54:55,393 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-11 22:54:56,427 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-11 22:54:56,429 [INFO    ] Begin training ...
+2019-04-11 22:54:57,096 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-11 22:54:57,225 [INFO    ] Using numpy 1.14.1
+2019-04-11 22:54:59,985 [INFO    ] Using tensorflow 1.6.0
+2019-04-11 22:55:00,062 [INFO    ] Using keras 2.1.4
+2019-04-11 22:55:00,074 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-11 22:55:00,074 [INFO    ] Using scipy 1.1.0
+2019-04-11 22:55:00,161 [INFO    ] Using sklearn 0.19.1
+2019-04-11 22:55:00,544 [INFO    ] Using matplotlib 1.5.2
+2019-04-11 22:55:01,005 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-11 22:55:10,377 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-11 22:55:10,380 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-11 22:55:31,869 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-11 22:55:32,754 [INFO    ] Using numpy 1.14.1
+2019-04-11 22:55:35,381 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-11 22:55:35,383 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-11 22:55:38,344 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-11 22:55:38,555 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-11 22:55:40,131 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-11 22:55:40,133 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-11 22:55:44,112 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-11 22:55:44,114 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-11 22:55:44,325 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-11 22:55:46,642 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-11 22:55:47,953 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-11 22:55:47,956 [INFO    ] Begin training ...
+2019-04-11 22:55:48,153 [INFO    ] Using tensorflow 1.6.0
+2019-04-11 22:55:49,164 [INFO    ] Using keras 2.1.4
+2019-04-11 22:55:49,172 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-11 22:55:49,172 [INFO    ] Using scipy 1.1.0
+2019-04-11 22:55:50,031 [INFO    ] Using sklearn 0.19.1
+2019-04-11 22:55:51,272 [INFO    ] Using matplotlib 1.5.2
+2019-04-11 22:55:53,826 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-11 22:56:09,021 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-11 22:56:09,024 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-11 22:56:13,672 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-11 22:56:15,278 [INFO    ] Using numpy 1.14.1
+2019-04-11 22:56:32,095 [INFO    ] Using tensorflow 1.6.0
+2019-04-11 22:56:32,252 [INFO    ] Using keras 2.1.4
+2019-04-11 22:56:32,263 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-11 22:56:32,264 [INFO    ] Using scipy 1.1.0
+2019-04-11 22:56:32,636 [INFO    ] Using sklearn 0.19.1
+2019-04-11 22:56:33,170 [INFO    ] Using matplotlib 1.5.2
+2019-04-11 22:56:34,299 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-11 22:56:47,381 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-11 22:56:47,768 [INFO    ] Using numpy 1.14.1
+2019-04-11 22:56:48,708 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-11 22:56:48,712 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-11 22:56:53,173 [INFO    ] Using tensorflow 1.6.0
+2019-04-11 22:56:53,275 [INFO    ] Using keras 2.1.4
+2019-04-11 22:56:53,539 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-11 22:56:53,540 [INFO    ] Using scipy 1.1.0
+2019-04-11 22:56:53,672 [INFO    ] Using sklearn 0.19.1
+2019-04-11 22:56:54,144 [INFO    ] Using matplotlib 1.5.2
+2019-04-11 22:56:54,729 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-11 22:57:00,216 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-11 22:57:01,637 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-11 22:57:01,640 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-11 22:57:01,777 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-11 22:57:06,482 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-11 22:57:06,486 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-11 22:57:15,499 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-11 22:57:15,501 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-11 22:57:16,478 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-11 22:57:23,473 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-11 22:57:23,475 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-11 22:57:26,630 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-11 22:57:26,866 [INFO    ] Using numpy 1.14.1
+2019-04-11 22:57:29,323 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-11 22:57:31,996 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-11 22:57:31,999 [INFO    ] Begin training ...
+2019-04-11 22:57:34,543 [INFO    ] Using tensorflow 1.6.0
+2019-04-11 22:57:34,729 [INFO    ] Using keras 2.1.4
+2019-04-11 22:57:34,826 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-11 22:57:34,826 [INFO    ] Using scipy 1.1.0
+2019-04-11 22:57:35,213 [INFO    ] Using sklearn 0.19.1
+2019-04-11 22:57:35,768 [INFO    ] Using matplotlib 1.5.2
+2019-04-11 22:57:37,129 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-11 22:57:38,718 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-11 22:57:38,722 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-11 22:57:52,360 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-11 22:57:53,871 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-11 22:58:01,743 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-11 22:58:01,746 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-11 22:58:02,279 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-11 22:58:02,284 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-11 22:58:11,000 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-11 22:58:11,005 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-11 22:58:11,986 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-11 22:58:15,035 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-11 22:58:15,039 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-11 22:58:27,320 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-11 22:58:30,483 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-11 22:58:30,490 [INFO    ] Begin training ...
+2019-04-11 22:58:32,033 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-11 22:58:33,586 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-11 22:58:37,803 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-11 22:58:37,806 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-11 22:58:47,642 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-11 22:58:47,645 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-11 22:58:48,702 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-11 22:58:52,638 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-11 22:58:52,643 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-11 22:59:01,506 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-11 22:59:04,971 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-11 22:59:04,975 [INFO    ] Begin training ...
+2019-04-11 22:59:12,759 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-11 22:59:13,167 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-11 22:59:20,398 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-11 22:59:20,448 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-11 22:59:29,445 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-11 22:59:29,448 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-11 22:59:29,916 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-11 22:59:37,772 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-11 22:59:40,564 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-11 22:59:40,567 [INFO    ] Begin training ...
+2019-04-12 04:39:43,680 [INFO    ] Done training. Time elapsed: 5:44:47.241164 sec
+2019-04-12 04:39:43,953 [INFO    ] Epoch 300/300 - loss: 0.176107904332 - regr_loss: 2.78621605228 - discr_loss: 0.0367970986559 - val_loss: 0.174851768927 - val_regr_loss: 2.76218754609 - val_discr_loss: 0.0367423886139
+2019-04-12 04:39:51,803 [INFO    ] # of entries: 167319, mean: -0.00113439443521, std: 0.0410798974335
+2019-04-12 04:39:51,863 [INFO    ] gaus fit (a, mu, sig): [ 1.43274414e+04 -7.95176007e-04  2.47447796e-02]
+2019-04-12 04:39:54,158 [INFO    ] # of entries: 167319, mean: 0.222376778722, std: 0.246049791574
+2019-04-12 04:39:54,171 [INFO    ] gaus fit (a, mu, sig): [ 1.79109030e+04 -7.32246647e-03  1.33120895e-01]
+2019-04-12 04:40:01,073 [INFO    ] gaus fit (a, mu, sig): [ 1.23817844e+02 -6.60400826e-02  2.07161388e-01]
+2019-04-12 04:40:08,296 [INFO    ] 20 GeV threshold 14.7089796066 rate 172.627716064
+2019-04-12 04:40:08,835 [INFO    ] 22 GeV threshold 15.6325654984 rate 156.012893677
+2019-04-12 04:40:46,437 [INFO    ] auc: 0.953826584138
+2019-04-12 04:40:46,442 [INFO    ] thr: [0.8772, 0.8448, 0.7931, 0.7208, 0.6907, 0.6436, 0.5938, 0.5164, 0.0812]
+2019-04-12 04:40:46,451 [INFO    ] tpr: [0.9004, 0.9251, 0.9505, 0.9701, 0.9751, 0.9810, 0.9856, 0.9900, 0.9990]
+2019-04-12 04:40:46,454 [INFO    ] fpr: [0.1443, 0.1741, 0.2281, 0.2800, 0.3028, 0.3234, 0.3412, 0.3660, 0.5387]
+2019-04-12 04:40:47,255 [INFO    ] auc: 0.981570850796
+2019-04-12 04:40:47,260 [INFO    ] thr: [0.9614, 0.9493, 0.9195, 0.8652, 0.8432, 0.8017, 0.7266, 0.6070, 0.0726]
+2019-04-12 04:40:47,264 [INFO    ] tpr: [0.9056, 0.9267, 0.9509, 0.9703, 0.9754, 0.9800, 0.9850, 0.9901, 0.9991]
+2019-04-12 04:40:47,268 [INFO    ] fpr: [0.0415, 0.0514, 0.0663, 0.0945, 0.1045, 0.1194, 0.1360, 0.1741, 0.4279]
+2019-04-12 04:44:51,167 [INFO    ] nevents: 258400/498400
+2019-04-12 04:44:53,951 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 20.7755056024, 18.3313284516, 16.4981955886, 14.0540184379, 12.9541386962
+2019-04-12 04:45:23,588 [INFO    ] Done training. Time elapsed: 5:49:35.631729 sec
+2019-04-12 04:45:23,907 [INFO    ] Epoch 300/300 - loss: 0.175502862375 - regr_loss: 2.78187787461 - discr_loss: 0.036408965605 - val_loss: 0.173718906345 - val_regr_loss: 2.75379279267 - val_discr_loss: 0.0360292638664
+2019-04-12 04:45:31,063 [INFO    ] # of entries: 167319, mean: -0.000914282223675, std: 0.0411293953657
+2019-04-12 04:45:31,078 [INFO    ] gaus fit (a, mu, sig): [ 1.43624999e+04 -3.95058326e-04  2.46496123e-02]
+2019-04-12 04:45:33,639 [INFO    ] # of entries: 167319, mean: 0.422330796719, std: 0.244546070695
+2019-04-12 04:45:33,653 [INFO    ] gaus fit (a, mu, sig): [ 1.79663539e+04 -7.05092036e-03 -1.32847692e-01]
+2019-04-12 04:45:41,260 [INFO    ] gaus fit (a, mu, sig): [ 1.27376494e+02 -7.19625400e-02  2.01463126e-01]
+2019-04-12 04:45:50,062 [INFO    ] 20 GeV threshold 14.8567848206 rate 168.207855225
+2019-04-12 04:45:50,622 [INFO    ] 22 GeV threshold 15.5043706894 rate 155.462844849
+2019-04-12 04:46:36,743 [INFO    ] auc: 0.953785843903
+2019-04-12 04:46:36,748 [INFO    ] thr: [0.8828, 0.8505, 0.7986, 0.7231, 0.6995, 0.6642, 0.6159, 0.5443, 0.0893]
+2019-04-12 04:46:36,751 [INFO    ] tpr: [0.9000, 0.9253, 0.9501, 0.9707, 0.9752, 0.9801, 0.9850, 0.9902, 0.9990]
+2019-04-12 04:46:36,754 [INFO    ] fpr: [0.1536, 0.1788, 0.2261, 0.2706, 0.2879, 0.3037, 0.3245, 0.3453, 0.5305]
+2019-04-12 04:46:37,703 [INFO    ] auc: 0.981936610822
+2019-04-12 04:46:37,706 [INFO    ] thr: [0.9644, 0.9516, 0.9194, 0.8746, 0.8505, 0.8119, 0.7569, 0.6696, 0.1037]
+2019-04-12 04:46:37,710 [INFO    ] tpr: [0.9032, 0.9258, 0.9531, 0.9707, 0.9756, 0.9805, 0.9850, 0.9900, 0.9990]
+2019-04-12 04:46:37,714 [INFO    ] fpr: [0.0493, 0.0629, 0.0816, 0.1054, 0.1173, 0.1276, 0.1497, 0.1701, 0.4014]
+2019-04-12 04:50:58,192 [INFO    ] nevents: 258400/498400
+2019-04-12 04:51:01,329 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 20.8977144361, 17.9647019506, 15.8871513009, 14.2984362245, 12.8319299817
+2019-04-12 04:51:21,427 [INFO    ] Done training. Time elapsed: 5:52:16.452717 sec
+2019-04-12 04:51:21,602 [INFO    ] Epoch 300/300 - loss: 0.171221971928 - regr_loss: 2.72198835842 - discr_loss: 0.0351225510716 - val_loss: 0.169798935644 - val_regr_loss: 2.69615492729 - val_discr_loss: 0.0349911861825
+2019-04-12 04:51:28,586 [INFO    ] # of entries: 167319, mean: -0.000824156100862, std: 0.0402691364288
+2019-04-12 04:51:28,600 [INFO    ] gaus fit (a, mu, sig): [ 1.45886297e+04 -3.55166105e-04  2.43079894e-02]
+2019-04-12 04:51:31,664 [INFO    ] # of entries: 167319, mean: 0.291815936565, std: 0.241242974997
+2019-04-12 04:51:31,676 [INFO    ] gaus fit (a, mu, sig): [ 1.82522401e+04 -7.43622039e-03  1.31040145e-01]
+2019-04-12 04:51:41,197 [INFO    ] gaus fit (a, mu, sig): [ 1.25890930e+02 -5.74647908e-02  2.06943894e-01]
+2019-04-12 04:51:51,052 [INFO    ] 20 GeV threshold 14.7264137268 rate 170.366027832
+2019-04-12 04:51:51,741 [INFO    ] 22 GeV threshold 15.5842056274 rate 153.293563843
+2019-04-12 04:52:28,818 [INFO    ] Done training. Time elapsed: 5:52:48.250978 sec
+2019-04-12 04:52:29,026 [INFO    ] Epoch 300/300 - loss: 0.17130220421 - regr_loss: 2.72896076181 - discr_loss: 0.03485416314 - val_loss: 0.16980504931 - val_regr_loss: 2.69796962101 - val_discr_loss: 0.0349065654088
+2019-04-12 04:52:35,996 [INFO    ] # of entries: 167319, mean: -0.000925496220589, std: 0.0401942878962
+2019-04-12 04:52:36,013 [INFO    ] gaus fit (a, mu, sig): [ 1.45639747e+04 -5.23788211e-04  2.43398357e-02]
+2019-04-12 04:52:38,573 [INFO    ] # of entries: 167319, mean: 0.455209493637, std: 0.241302996874
+2019-04-12 04:52:38,585 [INFO    ] gaus fit (a, mu, sig): [ 1.81845630e+04 -6.55242365e-03 -1.31653848e-01]
+2019-04-12 04:52:40,079 [INFO    ] auc: 0.962020119424
+2019-04-12 04:52:40,086 [INFO    ] thr: [0.8936, 0.8634, 0.8176, 0.7509, 0.7267, 0.6955, 0.6396, 0.5531, 0.0941]
+2019-04-12 04:52:40,091 [INFO    ] tpr: [0.9004, 0.9258, 0.9503, 0.9701, 0.9751, 0.9801, 0.9851, 0.9903, 0.9990]
+2019-04-12 04:52:40,097 [INFO    ] fpr: [0.1157, 0.1449, 0.1867, 0.2408, 0.2577, 0.2753, 0.3038, 0.3367, 0.5059]
+2019-04-12 04:52:41,085 [INFO    ] auc: 0.982375063161
+2019-04-12 04:52:41,089 [INFO    ] thr: [0.9774, 0.9596, 0.9388, 0.8937, 0.8356, 0.8356, 0.7628, 0.6749, 0.0727]
+2019-04-12 04:52:41,092 [INFO    ] tpr: [0.9017, 0.9356, 0.9539, 0.9707, 0.9801, 0.9801, 0.9856, 0.9903, 0.9991]
+2019-04-12 04:52:41,096 [INFO    ] fpr: [0.0385, 0.0458, 0.0604, 0.0769, 0.0842, 0.0842, 0.1044, 0.1227, 0.3993]
+2019-04-12 04:52:47,028 [INFO    ] gaus fit (a, mu, sig): [ 1.28244547e+02 -6.24503957e-02  2.01438270e-01]
+2019-04-12 04:52:56,279 [INFO    ] 20 GeV threshold 14.7684774399 rate 182.271072388
+2019-04-12 04:52:56,993 [INFO    ] 22 GeV threshold 15.8348712921 rate 157.908325195
+2019-04-12 04:53:41,879 [INFO    ] auc: 0.966324309723
+2019-04-12 04:53:41,883 [INFO    ] thr: [0.8966, 0.8659, 0.8244, 0.7605, 0.7326, 0.7056, 0.6612, 0.5706, 0.1104]
+2019-04-12 04:53:41,887 [INFO    ] tpr: [0.9002, 0.9257, 0.9501, 0.9702, 0.9756, 0.9801, 0.9851, 0.9906, 0.9990]
+2019-04-12 04:53:41,890 [INFO    ] fpr: [0.1037, 0.1356, 0.1769, 0.2292, 0.2468, 0.2651, 0.2868, 0.3098, 0.4549]
+2019-04-12 04:53:42,940 [INFO    ] auc: 0.988173862461
+2019-04-12 04:53:42,945 [INFO    ] thr: [0.9793, 0.9684, 0.9461, 0.8996, 0.8669, 0.8504, 0.7891, 0.7058, 0.1104]
+2019-04-12 04:53:42,950 [INFO    ] tpr: [0.9011, 0.9289, 0.9532, 0.9711, 0.9768, 0.9800, 0.9862, 0.9900, 0.9991]
+2019-04-12 04:53:42,956 [INFO    ] fpr: [0.0254, 0.0317, 0.0381, 0.0540, 0.0603, 0.0667, 0.0841, 0.1079, 0.2984]
+2019-04-12 04:53:51,773 [INFO    ] Done training. Time elapsed: 5:56:19.773707 sec
+2019-04-12 04:53:52,017 [INFO    ] Epoch 300/300 - loss: 0.174499854486 - regr_loss: 2.7745585018 - discr_loss: 0.035771926594 - val_loss: 0.172916339604 - val_regr_loss: 2.74489443928 - val_discr_loss: 0.0356716151434
+2019-04-12 04:53:58,666 [INFO    ] # of entries: 167319, mean: -0.00139576999936, std: 0.0410457476974
+2019-04-12 04:53:58,680 [INFO    ] gaus fit (a, mu, sig): [ 1.44529500e+04 -1.01111864e-03  2.44661757e-02]
+2019-04-12 04:54:00,633 [INFO    ] # of entries: 167319, mean: 0.226391017437, std: 0.245151534677
+2019-04-12 04:54:00,645 [INFO    ] gaus fit (a, mu, sig): [ 1.79951520e+04 -6.09147965e-03  1.32592474e-01]
+2019-04-12 04:54:08,690 [INFO    ] gaus fit (a, mu, sig): [ 1.15690778e+02 -5.14257565e-02  2.24192870e-01]
+2019-04-12 04:54:16,912 [INFO    ] 20 GeV threshold 14.8742694855 rate 174.440063477
+2019-04-12 04:54:17,453 [INFO    ] 22 GeV threshold 15.7415733337 rate 152.81729126
+2019-04-12 04:54:55,216 [INFO    ] auc: 0.958332297852
+2019-04-12 04:54:55,219 [INFO    ] thr: [0.8846, 0.8508, 0.8013, 0.7358, 0.7072, 0.6749, 0.6276, 0.5563, 0.1323]
+2019-04-12 04:54:55,222 [INFO    ] tpr: [0.9001, 0.9258, 0.9503, 0.9701, 0.9753, 0.9801, 0.9854, 0.9901, 0.9990]
+2019-04-12 04:54:55,225 [INFO    ] fpr: [0.1370, 0.1676, 0.2151, 0.2612, 0.2775, 0.2951, 0.3155, 0.3338, 0.4891]
+2019-04-12 04:54:56,080 [INFO    ] auc: 0.98476434663
+2019-04-12 04:54:56,084 [INFO    ] thr: [0.9710, 0.9519, 0.9298, 0.8798, 0.8508, 0.8171, 0.7542, 0.6551, 0.1686]
+2019-04-12 04:54:56,086 [INFO    ] tpr: [0.9012, 0.9352, 0.9523, 0.9700, 0.9756, 0.9802, 0.9861, 0.9904, 0.9990]
+2019-04-12 04:54:56,090 [INFO    ] fpr: [0.0332, 0.0464, 0.0498, 0.0763, 0.0813, 0.0962, 0.1078, 0.1360, 0.3234]
+2019-04-12 04:55:25,790 [INFO    ] Done training. Time elapsed: 5:56:55.300764 sec
+2019-04-12 04:55:25,965 [INFO    ] Epoch 300/300 - loss: 0.173177794451 - regr_loss: 2.76239244503 - discr_loss: 0.0350581694277 - val_loss: 0.17146921116 - val_regr_loss: 2.73414324352 - val_discr_loss: 0.0347620462421
+2019-04-12 04:55:29,756 [INFO    ] # of entries: 167319, mean: -0.00108483375516, std: 0.0405905172229
+2019-04-12 04:55:29,762 [INFO    ] gaus fit (a, mu, sig): [ 1.44955446e+04 -9.20546402e-04  2.44248255e-02]
+2019-04-12 04:55:30,861 [INFO    ] # of entries: 167319, mean: 0.254302442074, std: 0.244899436831
+2019-04-12 04:55:30,870 [INFO    ] gaus fit (a, mu, sig): [ 1.80814551e+04 -6.71558979e-03  1.32141204e-01]
+2019-04-12 04:55:35,383 [INFO    ] gaus fit (a, mu, sig): [ 1.33369336e+02 -6.95345961e-02  1.88816091e-01]
+2019-04-12 04:55:38,938 [INFO    ] 20 GeV threshold 14.9911527634 rate 176.098464966
+2019-04-12 04:55:39,165 [INFO    ] 22 GeV threshold 16.1021537781 rate 151.741912842
+2019-04-12 04:55:56,480 [INFO    ] auc: 0.965608513308
+2019-04-12 04:55:56,482 [INFO    ] thr: [0.8928, 0.8614, 0.8137, 0.7432, 0.7194, 0.6810, 0.6250, 0.5279, 0.0900]
+2019-04-12 04:55:56,484 [INFO    ] tpr: [0.9000, 0.9259, 0.9505, 0.9708, 0.9751, 0.9801, 0.9850, 0.9901, 0.9990]
+2019-04-12 04:55:56,486 [INFO    ] fpr: [0.1095, 0.1345, 0.1723, 0.2209, 0.2372, 0.2601, 0.2777, 0.3169, 0.4743]
+2019-04-12 04:55:56,980 [INFO    ] auc: 0.986845306905
+2019-04-12 04:55:56,982 [INFO    ] thr: [0.9762, 0.9593, 0.9347, 0.8850, 0.8605, 0.8291, 0.7433, 0.6364, 0.1141]
+2019-04-12 04:55:56,984 [INFO    ] tpr: [0.9048, 0.9346, 0.9566, 0.9728, 0.9764, 0.9803, 0.9863, 0.9901, 0.9990]
+2019-04-12 04:55:56,986 [INFO    ] fpr: [0.0292, 0.0422, 0.0487, 0.0666, 0.0731, 0.0779, 0.0925, 0.1234, 0.2987]
+2019-04-12 04:56:12,422 [INFO    ] nevents: 258400/498400
+2019-04-12 04:56:13,853 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.7978346571, 16.7426133379, 14.5428538546, 12.8319298252, 11.3654235825
+2019-04-12 04:56:42,359 [INFO    ] nevents: 258400/498400
+2019-04-12 04:56:43,888 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 18.9423726127, 16.0093601272, 14.4206450507, 12.8319299743, 10.8765882775
+2019-04-12 04:57:15,854 [INFO    ] nevents: 258400/498400
+2019-04-12 04:57:17,361 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.9200433493, 17.4758661985, 16.2537776232, 13.0763474703, 12.0986766219
+2019-04-12 04:57:59,814 [INFO    ] nevents: 258400/498400
+2019-04-12 04:58:01,393 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 20.4088791981, 17.1092399731, 15.2761071101, 13.1985564604, 11.9764678851
+2019-04-25 17:53:07,454 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 17:53:07,656 [INFO    ] Using numpy 1.14.1
+2019-04-25 17:53:14,980 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 17:53:15,087 [INFO    ] Using keras 2.1.4
+2019-04-25 17:53:15,105 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 17:53:15,105 [INFO    ] Using scipy 1.1.0
+2019-04-25 17:53:15,342 [INFO    ] Using sklearn 0.19.1
+2019-04-25 17:53:15,753 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 17:53:16,869 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 17:53:21,817 [ERROR   ] Failed to load data from file: /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz
+2019-04-25 17:55:24,829 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 17:55:25,018 [INFO    ] Using numpy 1.14.1
+2019-04-25 17:55:28,666 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 17:55:28,755 [INFO    ] Using keras 2.1.4
+2019-04-25 17:55:28,763 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 17:55:28,763 [INFO    ] Using scipy 1.1.0
+2019-04-25 17:55:28,964 [INFO    ] Using sklearn 0.19.1
+2019-04-25 17:55:29,241 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 17:55:29,893 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 17:55:35,668 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 17:55:35,670 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 17:55:50,429 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 17:55:50,432 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 17:55:52,460 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 18:43:55,704 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 18:43:55,900 [INFO    ] Using numpy 1.14.1
+2019-04-25 18:43:59,753 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 18:43:59,853 [INFO    ] Using keras 2.1.4
+2019-04-25 18:43:59,860 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 18:43:59,860 [INFO    ] Using scipy 1.1.0
+2019-04-25 18:44:00,053 [INFO    ] Using sklearn 0.19.1
+2019-04-25 18:44:00,349 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 18:44:01,026 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 18:44:06,703 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 18:44:06,705 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 18:44:23,555 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 18:44:23,557 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 18:44:25,574 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 18:45:27,687 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 18:45:33,346 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 18:45:33,347 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 18:45:50,647 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 18:45:50,649 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 18:45:52,431 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 18:53:04,905 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 18:53:05,094 [INFO    ] Using numpy 1.14.1
+2019-04-25 18:53:08,660 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 18:53:08,752 [INFO    ] Using keras 2.1.4
+2019-04-25 18:53:08,759 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 18:53:08,760 [INFO    ] Using scipy 1.1.0
+2019-04-25 18:53:08,949 [INFO    ] Using sklearn 0.19.1
+2019-04-25 18:53:09,254 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 18:53:09,892 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 18:53:15,504 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 18:53:15,506 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 18:53:32,310 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 18:53:32,312 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 18:53:34,321 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 21:13:39,362 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 21:13:39,556 [INFO    ] Using numpy 1.14.1
+2019-04-25 21:13:43,402 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 21:13:43,504 [INFO    ] Using keras 2.1.4
+2019-04-25 21:13:43,513 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 21:13:43,514 [INFO    ] Using scipy 1.1.0
+2019-04-25 21:13:43,728 [INFO    ] Using sklearn 0.19.1
+2019-04-25 21:13:44,049 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 21:13:44,683 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 21:13:50,322 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 21:13:50,323 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 21:14:07,189 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 21:14:07,190 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 21:14:09,196 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 21:22:46,741 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 21:22:46,935 [INFO    ] Using numpy 1.14.1
+2019-04-25 21:22:50,484 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 21:22:50,582 [INFO    ] Using keras 2.1.4
+2019-04-25 21:22:50,591 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 21:22:50,591 [INFO    ] Using scipy 1.1.0
+2019-04-25 21:22:50,784 [INFO    ] Using sklearn 0.19.1
+2019-04-25 21:22:51,081 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 21:22:51,758 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 21:22:57,499 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 21:22:57,501 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 21:23:12,660 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 21:23:12,662 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 21:23:14,690 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 21:24:05,887 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 21:24:06,062 [INFO    ] Using numpy 1.14.1
+2019-04-25 21:24:09,642 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 21:24:09,732 [INFO    ] Using keras 2.1.4
+2019-04-25 21:24:09,739 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 21:24:09,740 [INFO    ] Using scipy 1.1.0
+2019-04-25 21:24:09,938 [INFO    ] Using sklearn 0.19.1
+2019-04-25 21:24:10,212 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 21:24:10,825 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 21:24:16,480 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 21:24:16,482 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 21:24:31,571 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 21:24:31,573 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 21:24:33,589 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 21:25:54,009 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 21:25:54,781 [INFO    ] Using numpy 1.14.1
+2019-04-25 21:26:10,042 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 21:26:10,819 [INFO    ] Using keras 2.1.4
+2019-04-25 21:26:10,827 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 21:26:10,827 [INFO    ] Using scipy 1.1.0
+2019-04-25 21:26:11,670 [INFO    ] Using sklearn 0.19.1
+2019-04-25 21:26:12,385 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 21:26:14,730 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 21:26:20,337 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 21:26:20,338 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 21:26:35,427 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 21:26:35,429 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 21:26:37,446 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 21:26:58,208 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 21:26:58,399 [INFO    ] Using numpy 1.14.1
+2019-04-25 21:27:02,209 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 21:27:02,317 [INFO    ] Using keras 2.1.4
+2019-04-25 21:27:02,325 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 21:27:02,325 [INFO    ] Using scipy 1.1.0
+2019-04-25 21:27:02,559 [INFO    ] Using sklearn 0.19.1
+2019-04-25 21:27:02,837 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 21:27:03,596 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 21:27:09,212 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 21:27:09,213 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 21:27:24,294 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 21:27:24,296 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 21:27:26,320 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 21:32:25,432 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 21:32:25,618 [INFO    ] Using numpy 1.14.1
+2019-04-25 21:32:29,219 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 21:32:29,313 [INFO    ] Using keras 2.1.4
+2019-04-25 21:32:29,321 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 21:32:29,322 [INFO    ] Using scipy 1.1.0
+2019-04-25 21:32:29,514 [INFO    ] Using sklearn 0.19.1
+2019-04-25 21:32:29,968 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 21:32:30,641 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 21:32:36,314 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 21:32:36,316 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 21:32:51,518 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 21:32:51,519 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 21:32:53,549 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 21:54:03,453 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 21:54:03,643 [INFO    ] Using numpy 1.14.1
+2019-04-25 21:54:07,117 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 21:54:07,200 [INFO    ] Using keras 2.1.4
+2019-04-25 21:54:07,208 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 21:54:07,208 [INFO    ] Using scipy 1.1.0
+2019-04-25 21:54:07,403 [INFO    ] Using sklearn 0.19.1
+2019-04-25 21:54:07,688 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 21:54:08,378 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 21:54:14,095 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 21:54:14,168 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 21:54:31,379 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 21:54:31,383 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 21:54:33,415 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 21:54:38,138 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-25 21:54:39,386 [ERROR   ] Failed to load data from file: /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz
+2019-04-25 21:57:28,611 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 21:57:28,832 [INFO    ] Using numpy 1.14.1
+2019-04-25 21:57:32,384 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 21:57:32,470 [INFO    ] Using keras 2.1.4
+2019-04-25 21:57:32,479 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 21:57:32,479 [INFO    ] Using scipy 1.1.0
+2019-04-25 21:57:32,689 [INFO    ] Using sklearn 0.19.1
+2019-04-25 21:57:32,974 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 21:57:33,604 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 21:57:39,289 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 21:57:39,290 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 21:57:54,649 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 21:57:54,651 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 21:57:56,396 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 21:57:56,550 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-25 21:57:57,830 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-25 21:57:57,831 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-25 21:58:01,028 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-25 21:58:01,030 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-25 21:58:01,226 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-25 21:58:09,842 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-25 21:58:11,020 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-25 21:58:11,025 [INFO    ] Begin training ...
+2019-04-25 21:59:28,093 [INFO    ] Done training. Time elapsed: 0:01:17.068061 sec
+2019-04-25 21:59:28,179 [INFO    ] Epoch 3/3 - loss: 0.201908353015 - regr_loss: 3.15781870344 - discr_loss: 0.0440174146051 - val_loss: 0.193251753575 - val_regr_loss: 3.0302651754 - val_discr_loss: 0.0417384921953
+2019-04-25 21:59:42,926 [INFO    ] # of entries: 167319, mean: 0.00344161316752, std: 0.0424792021513
+2019-04-25 21:59:42,975 [INFO    ] gaus fit (a, mu, sig): [1.34711981e+04 3.41057828e-03 2.65616488e-02]
+2019-04-25 21:59:46,829 [INFO    ] # of entries: 167319, mean: 0.248029440641, std: 0.264421999454
+2019-04-25 21:59:46,834 [INFO    ] gaus fit (a, mu, sig): [ 1.69473123e+04 -9.89700824e-03  1.39777628e-01]
+2019-04-25 21:59:53,157 [INFO    ] gaus fit (a, mu, sig): [ 1.06850722e+02 -7.05425935e-02  2.38846725e-01]
+2019-04-25 22:00:01,381 [INFO    ] 20 GeV threshold 13.9808034897 rate 222.159790039
+2019-04-25 22:00:01,595 [INFO    ] 22 GeV threshold 15.1581106186 rate 186.095870972
+2019-04-25 22:00:24,657 [INFO    ] auc: 0.954386911637
+2019-04-25 22:00:24,660 [INFO    ] thr: [0.8501, 0.8135, 0.7520, 0.6642, 0.6409, 0.6038, 0.5508, 0.4638, 0.0835]
+2019-04-25 22:00:24,661 [INFO    ] tpr: [0.9000, 0.9250, 0.9501, 0.9707, 0.9750, 0.9801, 0.9851, 0.9901, 0.9990]
+2019-04-25 22:00:24,663 [INFO    ] fpr: [0.1466, 0.1866, 0.2410, 0.2860, 0.2948, 0.3093, 0.3276, 0.3581, 0.4842]
+2019-04-25 22:00:25,050 [INFO    ] auc: 0.980506652086
+2019-04-25 22:00:25,053 [INFO    ] thr: [0.9601, 0.9464, 0.9220, 0.8788, 0.8573, 0.8286, 0.7874, 0.6864, 0.0978]
+2019-04-25 22:00:25,054 [INFO    ] tpr: [0.9019, 0.9278, 0.9522, 0.9700, 0.9755, 0.9809, 0.9851, 0.9902, 0.9990]
+2019-04-25 22:00:25,057 [INFO    ] fpr: [0.0486, 0.0529, 0.0601, 0.0930, 0.1030, 0.1102, 0.1230, 0.1488, 0.2904]
+2019-04-25 22:02:10,941 [INFO    ] nevents: 258400/498400
+2019-04-25 22:02:11,961 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 22.4864296541, 19.0645815954, 16.1315691099, 14.9094805345, 13.0763476714
+2019-04-25 22:09:33,835 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 22:09:34,028 [INFO    ] Using numpy 1.14.1
+2019-04-25 22:09:37,565 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 22:09:37,654 [INFO    ] Using keras 2.1.4
+2019-04-25 22:09:37,661 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 22:09:37,661 [INFO    ] Using scipy 1.1.0
+2019-04-25 22:09:37,863 [INFO    ] Using sklearn 0.19.1
+2019-04-25 22:09:38,125 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 22:09:38,780 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 22:09:44,506 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 22:09:44,508 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 22:09:58,201 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 22:09:58,203 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 22:09:59,902 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 22:10:00,058 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-25 22:10:01,216 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-25 22:10:01,218 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-25 22:10:04,360 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-25 22:10:04,362 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-25 22:10:04,556 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-25 22:10:05,796 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-25 22:10:06,902 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-25 22:10:06,905 [INFO    ] Begin training ...
+2019-04-25 22:10:12,398 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 22:10:12,520 [INFO    ] Using numpy 1.14.1
+2019-04-25 22:10:14,844 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 22:10:14,895 [INFO    ] Using keras 2.1.4
+2019-04-25 22:10:14,904 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 22:10:14,904 [INFO    ] Using scipy 1.1.0
+2019-04-25 22:10:14,971 [INFO    ] Using sklearn 0.19.1
+2019-04-25 22:10:15,301 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 22:10:15,610 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 22:10:22,422 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 22:10:22,424 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 22:10:45,116 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 22:10:45,444 [INFO    ] Using numpy 1.14.1
+2019-04-25 22:10:49,610 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 22:10:49,703 [INFO    ] Using keras 2.1.4
+2019-04-25 22:10:49,974 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 22:10:49,974 [INFO    ] Using scipy 1.1.0
+2019-04-25 22:10:50,189 [INFO    ] Using sklearn 0.19.1
+2019-04-25 22:10:50,548 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 22:10:51,192 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 22:10:53,299 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 22:10:53,301 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 22:10:55,741 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 22:10:55,942 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-25 22:10:57,335 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-25 22:10:57,337 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-25 22:10:59,987 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 22:10:59,990 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 22:11:02,461 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-25 22:11:02,464 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-25 22:11:02,736 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-25 22:11:07,249 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-25 22:11:08,671 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-25 22:11:08,673 [INFO    ] Begin training ...
+2019-04-25 22:11:33,039 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 22:11:33,281 [INFO    ] Using numpy 1.14.1
+2019-04-25 22:11:37,864 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 22:11:37,977 [INFO    ] Using keras 2.1.4
+2019-04-25 22:11:37,992 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 22:11:37,993 [INFO    ] Using scipy 1.1.0
+2019-04-25 22:11:38,139 [INFO    ] Using sklearn 0.19.1
+2019-04-25 22:11:38,870 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 22:11:39,478 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 22:11:50,449 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 22:11:50,452 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 22:12:12,437 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 22:12:12,924 [INFO    ] Using numpy 1.14.1
+2019-04-25 22:12:20,986 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 22:12:21,177 [INFO    ] Using keras 2.1.4
+2019-04-25 22:12:21,335 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 22:12:21,335 [INFO    ] Using scipy 1.1.0
+2019-04-25 22:12:21,741 [INFO    ] Using sklearn 0.19.1
+2019-04-25 22:12:22,290 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 22:12:23,602 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 22:12:23,801 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 22:12:23,803 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 22:12:26,941 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 22:12:27,295 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-25 22:12:29,795 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-25 22:12:29,797 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-25 22:12:35,300 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-25 22:12:35,305 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-25 22:12:35,854 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 22:12:35,857 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 22:12:35,934 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-25 22:12:40,918 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 22:12:41,156 [INFO    ] Using numpy 1.14.1
+2019-04-25 22:12:44,099 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-25 22:12:46,080 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 22:12:46,186 [INFO    ] Using keras 2.1.4
+2019-04-25 22:12:46,201 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 22:12:46,201 [INFO    ] Using scipy 1.1.0
+2019-04-25 22:12:46,313 [INFO    ] Using sklearn 0.19.1
+2019-04-25 22:12:46,651 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-25 22:12:46,657 [INFO    ] Begin training ...
+2019-04-25 22:12:46,819 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 22:12:47,530 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 22:13:09,066 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 22:13:09,068 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 22:13:09,836 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 22:13:10,127 [INFO    ] Using numpy 1.14.1
+2019-04-25 22:13:15,941 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 22:13:16,084 [INFO    ] Using keras 2.1.4
+2019-04-25 22:13:16,096 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 22:13:16,098 [INFO    ] Using scipy 1.1.0
+2019-04-25 22:13:16,251 [INFO    ] Using sklearn 0.19.1
+2019-04-25 22:13:16,340 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 22:13:16,344 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 22:13:16,835 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 22:13:17,635 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 22:13:20,747 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 22:13:21,148 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-25 22:13:23,737 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-25 22:13:23,749 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-25 22:13:33,494 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-25 22:13:33,498 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-25 22:13:33,897 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-25 22:13:34,158 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 22:13:34,163 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 22:13:39,131 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 22:13:39,616 [INFO    ] Using numpy 1.14.1
+2019-04-25 22:13:45,407 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-25 22:13:48,592 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-25 22:13:48,599 [INFO    ] Begin training ...
+2019-04-25 22:13:49,171 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 22:13:49,400 [INFO    ] Using keras 2.1.4
+2019-04-25 22:13:49,915 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 22:13:49,916 [INFO    ] Using scipy 1.1.0
+2019-04-25 22:13:50,469 [INFO    ] Using sklearn 0.19.1
+2019-04-25 22:13:51,099 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 22:13:52,533 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 22:13:52,700 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 22:13:52,704 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 22:14:04,748 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 22:14:05,170 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-25 22:14:09,960 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-25 22:14:09,960 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-25 22:14:09,963 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-25 22:14:10,333 [INFO    ] Using numpy 1.14.1
+2019-04-25 22:14:16,493 [INFO    ] Using tensorflow 1.6.0
+2019-04-25 22:14:16,642 [INFO    ] Using keras 2.1.4
+2019-04-25 22:14:16,937 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-25 22:14:16,939 [INFO    ] Using scipy 1.1.0
+2019-04-25 22:14:17,121 [INFO    ] Using sklearn 0.19.1
+2019-04-25 22:14:17,847 [INFO    ] Using matplotlib 1.5.2
+2019-04-25 22:14:18,716 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-04-25 22:14:21,562 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-25 22:14:21,566 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-25 22:14:23,137 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-25 22:14:26,673 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 22:14:26,677 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 22:14:27,877 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 22:14:27,883 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 22:14:29,934 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-25 22:14:33,374 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-25 22:14:33,376 [INFO    ] Begin training ...
+2019-04-25 22:14:35,453 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 22:14:35,901 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-25 22:14:40,793 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-25 22:14:40,796 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-25 22:14:47,264 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-04-25 22:14:47,269 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-04-25 22:14:52,053 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-25 22:14:52,057 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-25 22:14:56,458 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-25 22:15:07,794 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-25 22:15:10,743 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-25 22:15:10,753 [INFO    ] Begin training ...
+2019-04-25 22:15:11,541 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 22:15:11,546 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 22:15:18,509 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 22:15:18,824 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-25 22:15:20,838 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-25 22:15:20,840 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-25 22:15:33,952 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-25 22:15:33,959 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-25 22:15:34,327 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-25 22:15:40,379 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-25 22:15:40,425 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-04-25 22:15:40,429 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-04-25 22:15:42,499 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-25 22:15:42,504 [INFO    ] Begin training ...
+2019-04-25 22:15:43,796 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-04-25 22:15:44,109 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-04-25 22:15:45,888 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-04-25 22:15:45,890 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-04-25 22:16:06,086 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-04-25 22:16:06,099 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-04-25 22:16:06,429 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-04-25 22:16:11,905 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-04-25 22:16:15,523 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-04-25 22:16:15,525 [INFO    ] Begin training ...
+2019-04-26 04:07:37,950 [INFO    ] Done training. Time elapsed: 5:57:31.044565 sec
+2019-04-26 04:07:38,143 [INFO    ] Epoch 300/300 - loss: 0.171660157089 - regr_loss: 2.75448793492 - discr_loss: 0.0339357573617 - val_loss: 0.169812091849 - val_regr_loss: 2.7243747141 - val_discr_loss: 0.0335933523849
+2019-04-26 04:07:44,443 [INFO    ] # of entries: 167319, mean: -0.00116655335296, std: 0.0403216555715
+2019-04-26 04:07:44,501 [INFO    ] gaus fit (a, mu, sig): [ 1.45160255e+04 -7.97972676e-04  2.44531014e-02]
+2019-04-26 04:07:46,608 [INFO    ] # of entries: 167319, mean: 0.273876011372, std: 0.244238317013
+2019-04-26 04:07:46,617 [INFO    ] gaus fit (a, mu, sig): [ 1.81905939e+04 -7.20290365e-03  1.31224905e-01]
+2019-04-26 04:07:54,221 [INFO    ] gaus fit (a, mu, sig): [ 1.34834187e+02 -7.56099094e-02  1.86743990e-01]
+2019-04-26 04:08:01,582 [INFO    ] 20 GeV threshold 14.9205770493 rate 174.793304443
+2019-04-26 04:08:02,344 [INFO    ] 22 GeV threshold 15.7193069458 rate 155.407180786
+2019-04-26 04:08:32,392 [INFO    ] auc: 0.964669900233
+2019-04-26 04:08:32,395 [INFO    ] thr: [0.9050, 0.8695, 0.8107, 0.7277, 0.6968, 0.6538, 0.6043, 0.5112, 0.1174]
+2019-04-26 04:08:32,397 [INFO    ] tpr: [0.9001, 0.9255, 0.9502, 0.9701, 0.9752, 0.9804, 0.9851, 0.9900, 0.9990]
+2019-04-26 04:08:32,399 [INFO    ] fpr: [0.1029, 0.1431, 0.1956, 0.2416, 0.2577, 0.2737, 0.2920, 0.3328, 0.5029]
+2019-04-26 04:08:33,079 [INFO    ] auc: 0.984472439072
+2019-04-26 04:08:33,083 [INFO    ] thr: [0.9747, 0.9645, 0.9295, 0.8911, 0.8698, 0.8319, 0.7753, 0.6650, 0.1174]
+2019-04-26 04:08:33,086 [INFO    ] tpr: [0.9044, 0.9263, 0.9575, 0.9712, 0.9752, 0.9805, 0.9854, 0.9903, 0.9990]
+2019-04-26 04:08:33,088 [INFO    ] fpr: [0.0373, 0.0485, 0.0653, 0.0802, 0.0877, 0.1045, 0.1231, 0.1399, 0.3153]
+2019-04-26 04:10:51,091 [INFO    ] Done training. Time elapsed: 5:59:42.417900 sec
+2019-04-26 04:10:51,262 [INFO    ] Epoch 300/300 - loss: 0.171335005559 - regr_loss: 2.76104011399 - discr_loss: 0.0332829965343 - val_loss: 0.169422712648 - val_regr_loss: 2.72891995893 - val_discr_loss: 0.0329767125064
+2019-04-26 04:10:56,399 [INFO    ] # of entries: 167319, mean: -0.0011252425611, std: 0.0405614152551
+2019-04-26 04:10:56,406 [INFO    ] gaus fit (a, mu, sig): [ 1.45085934e+04 -7.73286088e-04  2.44402970e-02]
+2019-04-26 04:10:58,032 [INFO    ] # of entries: 167319, mean: 0.213530689478, std: 0.243150800467
+2019-04-26 04:10:58,041 [INFO    ] gaus fit (a, mu, sig): [ 1.81434697e+04 -6.91229133e-03  1.31614654e-01]
+2019-04-26 04:11:04,054 [INFO    ] gaus fit (a, mu, sig): [ 1.19936098e+02 -6.63638662e-02  2.13715337e-01]
+2019-04-26 04:11:10,227 [INFO    ] 20 GeV threshold 14.7521324158 rate 172.600830078
+2019-04-26 04:11:10,596 [INFO    ] 22 GeV threshold 15.9960565567 rate 146.047302246
+2019-04-26 04:11:39,343 [INFO    ] nevents: 258400/498400
+2019-04-26 04:11:41,383 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 20.1644611135, 17.9647016302, 15.2761068121, 13.6873917356, 12.2208854929
+2019-04-26 04:11:42,612 [INFO    ] auc: 0.963493807216
+2019-04-26 04:11:42,618 [INFO    ] thr: [0.9022, 0.8714, 0.8217, 0.7441, 0.7160, 0.6831, 0.6314, 0.5500, 0.1454]
+2019-04-26 04:11:42,622 [INFO    ] tpr: [0.9005, 0.9255, 0.9501, 0.9706, 0.9750, 0.9800, 0.9851, 0.9901, 0.9991]
+2019-04-26 04:11:42,624 [INFO    ] fpr: [0.1215, 0.1428, 0.1757, 0.2286, 0.2409, 0.2574, 0.2821, 0.3116, 0.4399]
+2019-04-26 04:11:43,394 [INFO    ] auc: 0.986590192517
+2019-04-26 04:11:43,398 [INFO    ] thr: [0.9799, 0.9670, 0.9549, 0.9250, 0.9081, 0.8896, 0.8492, 0.7883, 0.1965]
+2019-04-26 04:11:43,401 [INFO    ] tpr: [0.9002, 0.9364, 0.9524, 0.9711, 0.9763, 0.9802, 0.9853, 0.9901, 0.9990]
+2019-04-26 04:11:43,406 [INFO    ] fpr: [0.0330, 0.0348, 0.0400, 0.0574, 0.0609, 0.0643, 0.0783, 0.0887, 0.2522]
+2019-04-26 04:12:16,630 [INFO    ] Done training. Time elapsed: 5:59:29.973141 sec
+2019-04-26 04:12:16,810 [INFO    ] Epoch 300/300 - loss: 0.172041479653 - regr_loss: 2.74341987444 - discr_loss: 0.0348704830881 - val_loss: 0.170714549937 - val_regr_loss: 2.7173733054 - val_discr_loss: 0.0348458816514
+2019-04-26 04:12:22,057 [INFO    ] # of entries: 167319, mean: -0.000619702623226, std: 0.0403690077364
+2019-04-26 04:12:22,066 [INFO    ] gaus fit (a, mu, sig): [ 1.45069713e+04 -1.18435462e-04  2.44644733e-02]
+2019-04-26 04:12:23,622 [INFO    ] # of entries: 167319, mean: 0.209725573659, std: 0.244842469692
+2019-04-26 04:12:23,635 [INFO    ] gaus fit (a, mu, sig): [ 1.81713534e+04 -7.39663509e-03  1.31365906e-01]
+2019-04-26 04:12:29,135 [INFO    ] gaus fit (a, mu, sig): [ 1.33009109e+02 -7.63739664e-02  1.90521123e-01]
+2019-04-26 04:12:35,289 [INFO    ] 20 GeV threshold 14.6218957901 rate 177.141098022
+2019-04-26 04:12:35,771 [INFO    ] 22 GeV threshold 15.521651268 rate 152.705444336
+2019-04-26 04:13:15,621 [INFO    ] auc: 0.962157473115
+2019-04-26 04:13:15,628 [INFO    ] thr: [0.8898, 0.8561, 0.8010, 0.7254, 0.6925, 0.6546, 0.5963, 0.5076, 0.0748]
+2019-04-26 04:13:15,632 [INFO    ] tpr: [0.9001, 0.9250, 0.9508, 0.9700, 0.9752, 0.9801, 0.9851, 0.9903, 0.9990]
+2019-04-26 04:13:15,636 [INFO    ] fpr: [0.1230, 0.1497, 0.1895, 0.2350, 0.2565, 0.2721, 0.2995, 0.3255, 0.4740]
+2019-04-26 04:13:16,575 [INFO    ] auc: 0.98409568354
+2019-04-26 04:13:16,584 [INFO    ] thr: [0.9757, 0.9657, 0.9437, 0.8867, 0.8515, 0.8199, 0.7524, 0.6657, 0.0713]
+2019-04-26 04:13:16,587 [INFO    ] tpr: [0.9003, 0.9253, 0.9508, 0.9714, 0.9771, 0.9809, 0.9867, 0.9905, 0.9991]
+2019-04-26 04:13:16,590 [INFO    ] fpr: [0.0395, 0.0486, 0.0608, 0.0790, 0.0866, 0.0942, 0.1033, 0.1292, 0.3207]
+2019-04-26 04:13:17,473 [INFO    ] auc: 0.98409568354
+2019-04-26 04:13:17,476 [INFO    ] thr: [0.9757, 0.9657, 0.9437, 0.8867, 0.8515, 0.8199, 0.7524, 0.6657, 0.0713]
+2019-04-26 04:13:17,480 [INFO    ] tpr: [0.9003, 0.9253, 0.9508, 0.9714, 0.9771, 0.9809, 0.9867, 0.9905, 0.9991]
+2019-04-26 04:13:17,483 [INFO    ] fpr: [0.0395, 0.0486, 0.0608, 0.0790, 0.0866, 0.0942, 0.1033, 0.1292, 0.3207]
+2019-04-26 04:15:37,341 [INFO    ] nevents: 258400/498400
+2019-04-26 04:15:40,507 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 19.3089993596, 16.8648222089, 15.1538981795, 13.0763475299, 11.4876324534
+2019-04-26 04:17:30,838 [INFO    ] nevents: 258400/498400
+2019-04-26 04:17:33,493 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 20.6532967091, 17.3536574841, 15.7649424076, 12.8319299221, 11.8542590737
+2019-04-26 04:19:14,526 [INFO    ] Done training. Time elapsed: 6:05:25.926935 sec
+2019-04-26 04:19:14,852 [INFO    ] Epoch 300/300 - loss: 0.156276313745 - regr_loss: 2.76041040922 - discr_loss: 0.0182557905048 - val_loss: 0.154196079978 - val_regr_loss: 2.72662709953 - val_discr_loss: 0.0178647225698
+2019-04-26 04:19:20,607 [INFO    ] # of entries: 167319, mean: -0.00105163606349, std: 0.0406721122563
+2019-04-26 04:19:20,620 [INFO    ] gaus fit (a, mu, sig): [ 1.44962102e+04 -8.17062278e-04  2.44462380e-02]
+2019-04-26 04:19:22,411 [INFO    ] # of entries: 167319, mean: 0.715522527695, std: 0.245086327195
+2019-04-26 04:19:22,426 [INFO    ] gaus fit (a, mu, sig): [ 1.81100832e+04 -6.37965698e-03 -1.31843684e-01]
+2019-04-26 04:19:29,739 [INFO    ] gaus fit (a, mu, sig): [ 1.31375155e+02 -6.82042380e-02  1.92912454e-01]
+2019-04-26 04:19:37,174 [INFO    ] 20 GeV threshold 14.7821130753 rate 174.506790161
+2019-04-26 04:19:37,732 [INFO    ] 22 GeV threshold 15.8769397736 rate 147.996505737
+2019-04-26 04:20:14,760 [INFO    ] Done training. Time elapsed: 6:05:41.383175 sec
+2019-04-26 04:20:14,934 [INFO    ] Epoch 300/300 - loss: 0.155339094963 - regr_loss: 2.74005893072 - discr_loss: 0.0183361455355 - val_loss: 0.153469075547 - val_regr_loss: 2.71278664286 - val_discr_loss: 0.0178297405345
+2019-04-26 04:20:21,023 [INFO    ] # of entries: 167319, mean: -0.000242817652179, std: 0.0405863970518
+2019-04-26 04:20:21,035 [INFO    ] gaus fit (a, mu, sig): [1.45383446e+04 8.52611229e-05 2.43770157e-02]
+2019-04-26 04:20:21,592 [INFO    ] auc: 0.994398333953
+2019-04-26 04:20:21,599 [INFO    ] thr: [0.9841, 0.9744, 0.9532, 0.9255, 0.9098, 0.8884, 0.8638, 0.8195, 0.4958]
+2019-04-26 04:20:21,603 [INFO    ] tpr: [0.9013, 0.9278, 0.9536, 0.9701, 0.9753, 0.9802, 0.9852, 0.9901, 0.9991]
+2019-04-26 04:20:21,606 [INFO    ] fpr: [0.0121, 0.0185, 0.0305, 0.0511, 0.0603, 0.0667, 0.0802, 0.1072, 0.1774]
+2019-04-26 04:20:22,700 [INFO    ] auc: 0.996370308744
+2019-04-26 04:20:22,707 [INFO    ] thr: [0.9919, 0.9890, 0.9837, 0.9744, 0.9697, 0.9588, 0.9523, 0.9354, 0.5292]
+2019-04-26 04:20:22,712 [INFO    ] tpr: [0.9010, 0.9279, 0.9506, 0.9700, 0.9754, 0.9830, 0.9859, 0.9903, 0.9992]
+2019-04-26 04:20:22,715 [INFO    ] fpr: [0.0121, 0.0136, 0.0182, 0.0197, 0.0212, 0.0227, 0.0242, 0.0273, 0.0591]
+2019-04-26 04:20:23,147 [INFO    ] # of entries: 167319, mean: 0.732529520988, std: 0.242657020688
+2019-04-26 04:20:23,164 [INFO    ] gaus fit (a, mu, sig): [ 1.82101934e+04 -8.38136702e-03  1.31269757e-01]
+2019-04-26 04:20:30,431 [INFO    ] gaus fit (a, mu, sig): [ 1.29245822e+02 -6.06469876e-02  1.99338308e-01]
+2019-04-26 04:20:34,278 [INFO    ] Done training. Time elapsed: 6:04:18.752836 sec
+2019-04-26 04:20:34,439 [INFO    ] Epoch 300/300 - loss: 0.172185586851 - regr_loss: 2.77093753875 - discr_loss: 0.0336387068421 - val_loss: 0.17009481024 - val_regr_loss: 2.73632542704 - val_discr_loss: 0.0332785371056
+2019-04-26 04:20:38,129 [INFO    ] 20 GeV threshold 14.803024292 rate 168.533813477
+2019-04-26 04:20:38,640 [INFO    ] 22 GeV threshold 15.743098259 rate 144.798751831
+2019-04-26 04:20:40,709 [INFO    ] # of entries: 167319, mean: -0.00137527484912, std: 0.0407220646739
+2019-04-26 04:20:40,728 [INFO    ] gaus fit (a, mu, sig): [ 1.44176752e+04 -9.18464460e-04  2.46188599e-02]
+2019-04-26 04:20:42,613 [INFO    ] # of entries: 167319, mean: 0.227444708347, std: 0.244319632649
+2019-04-26 04:20:42,626 [INFO    ] gaus fit (a, mu, sig): [ 1.80892551e+04 -7.58701351e-03  1.31922924e-01]
+2019-04-26 04:20:49,830 [INFO    ] gaus fit (a, mu, sig): [ 1.31907384e+02 -6.84491075e-02  1.92508648e-01]
+2019-04-26 04:20:57,936 [INFO    ] 20 GeV threshold 14.8439121246 rate 173.390792847
+2019-04-26 04:20:58,480 [INFO    ] 22 GeV threshold 15.534784317 rate 154.283584595
+2019-04-26 04:21:15,277 [INFO    ] auc: 0.99507548861
+2019-04-26 04:21:15,282 [INFO    ] thr: [0.9851, 0.9769, 0.9573, 0.9234, 0.9103, 0.8926, 0.8651, 0.8223, 0.4875]
+2019-04-26 04:21:15,285 [INFO    ] tpr: [0.9022, 0.9250, 0.9522, 0.9710, 0.9759, 0.9800, 0.9850, 0.9903, 0.9990]
+2019-04-26 04:21:15,287 [INFO    ] fpr: [0.0107, 0.0163, 0.0295, 0.0440, 0.0497, 0.0572, 0.0729, 0.0955, 0.1534]
+2019-04-26 04:21:16,148 [INFO    ] auc: 0.996313117584
+2019-04-26 04:21:16,157 [INFO    ] thr: [0.9936, 0.9915, 0.9871, 0.9801, 0.9766, 0.9712, 0.9639, 0.9471, 0.6964]
+2019-04-26 04:21:16,161 [INFO    ] tpr: [0.9022, 0.9269, 0.9543, 0.9714, 0.9760, 0.9808, 0.9855, 0.9906, 0.9990]
+2019-04-26 04:21:16,165 [INFO    ] fpr: [0.0109, 0.0140, 0.0155, 0.0186, 0.0202, 0.0217, 0.0248, 0.0326, 0.0559]
+2019-04-26 04:21:33,948 [INFO    ] auc: 0.966631621815
+2019-04-26 04:21:33,952 [INFO    ] thr: [0.9023, 0.8632, 0.8036, 0.7106, 0.6764, 0.6338, 0.5618, 0.4758, 0.1066]
+2019-04-26 04:21:33,955 [INFO    ] tpr: [0.9003, 0.9258, 0.9500, 0.9701, 0.9751, 0.9800, 0.9852, 0.9900, 0.9990]
+2019-04-26 04:21:33,958 [INFO    ] fpr: [0.1106, 0.1406, 0.1805, 0.2332, 0.2512, 0.2698, 0.2991, 0.3304, 0.4837]
+2019-04-26 04:21:34,801 [INFO    ] auc: 0.987571965046
+2019-04-26 04:21:34,805 [INFO    ] thr: [0.9743, 0.9647, 0.9405, 0.8968, 0.8684, 0.8344, 0.7890, 0.6932, 0.1264]
+2019-04-26 04:21:34,808 [INFO    ] tpr: [0.9039, 0.9275, 0.9532, 0.9705, 0.9760, 0.9811, 0.9851, 0.9902, 0.9991]
+2019-04-26 04:21:34,812 [INFO    ] fpr: [0.0321, 0.0369, 0.0513, 0.0705, 0.0785, 0.0897, 0.1058, 0.1250, 0.2949]
+2019-04-26 04:21:36,951 [INFO    ] Done training. Time elapsed: 6:05:54.447108 sec
+2019-04-26 04:21:37,136 [INFO    ] Epoch 300/300 - loss: 0.157095360378 - regr_loss: 2.73906325399 - discr_loss: 0.0201421947794 - val_loss: 0.155394951763 - val_regr_loss: 2.71365500567 - val_discr_loss: 0.0197121979423
+2019-04-26 04:21:40,080 [INFO    ] # of entries: 167319, mean: -0.00120554806199, std: 0.0405657142401
+2019-04-26 04:21:40,088 [INFO    ] gaus fit (a, mu, sig): [ 1.44880902e+04 -9.22685790e-04  2.45001999e-02]
+2019-04-26 04:21:41,175 [INFO    ] # of entries: 167319, mean: 1.83330905437, std: 0.2437697649
+2019-04-26 04:21:41,180 [INFO    ] gaus fit (a, mu, sig): [ 1.81092559e+04 -7.32032908e-03  1.31962095e-01]
+2019-04-26 04:21:44,788 [INFO    ] gaus fit (a, mu, sig): [ 1.28918122e+02 -6.01902089e-02  1.98801392e-01]
+2019-04-26 04:21:47,018 [INFO    ] Done training. Time elapsed: 6:06:36.264937 sec
+2019-04-26 04:21:47,095 [INFO    ] Epoch 300/300 - loss: 0.155203706579 - regr_loss: 2.74153685096 - discr_loss: 0.0181268610478 - val_loss: 0.153521220454 - val_regr_loss: 2.71406020785 - val_discr_loss: 0.0178182074358
+2019-04-26 04:21:48,493 [INFO    ] 20 GeV threshold 14.8542165756 rate 164.752655029
+2019-04-26 04:21:48,709 [INFO    ] 22 GeV threshold 16.1251106262 rate 135.887145996
+2019-04-26 04:21:49,733 [INFO    ] # of entries: 167319, mean: -0.000702077231836, std: 0.040710054338
+2019-04-26 04:21:49,745 [INFO    ] gaus fit (a, mu, sig): [ 1.44835504e+04 -2.52151988e-04  2.44877958e-02]
+2019-04-26 04:21:50,645 [INFO    ] # of entries: 167319, mean: 0.423860967159, std: 0.242439568043
+2019-04-26 04:21:50,651 [INFO    ] gaus fit (a, mu, sig): [ 1.81078053e+04 -7.95294552e-03  1.31939400e-01]
+2019-04-26 04:21:53,646 [INFO    ] gaus fit (a, mu, sig): [ 1.23562066e+02 -6.18517464e-02  2.09166591e-01]
+2019-04-26 04:21:56,703 [INFO    ] 20 GeV threshold 14.7284555435 rate 182.268966675
+2019-04-26 04:21:56,910 [INFO    ] 22 GeV threshold 15.9050512314 rate 153.226760864
+2019-04-26 04:22:05,120 [INFO    ] auc: 0.990826462027
+2019-04-26 04:22:05,123 [INFO    ] thr: [0.9708, 0.9580, 0.9315, 0.8879, 0.8645, 0.8452, 0.8134, 0.7573, 0.2801]
+2019-04-26 04:22:05,124 [INFO    ] tpr: [0.9007, 0.9251, 0.9502, 0.9701, 0.9758, 0.9801, 0.9850, 0.9902, 0.9991]
+2019-04-26 04:22:05,126 [INFO    ] fpr: [0.0208, 0.0343, 0.0517, 0.0833, 0.0934, 0.0994, 0.1101, 0.1370, 0.2176]
+2019-04-26 04:22:05,518 [INFO    ] auc: 0.993080211987
+2019-04-26 04:22:05,520 [INFO    ] thr: [0.9886, 0.9846, 0.9755, 0.9679, 0.9519, 0.9519, 0.9412, 0.9213, 0.3657]
+2019-04-26 04:22:05,522 [INFO    ] tpr: [0.9012, 0.9288, 0.9590, 0.9702, 0.9822, 0.9822, 0.9856, 0.9902, 0.9990]
+2019-04-26 04:22:05,524 [INFO    ] fpr: [0.0240, 0.0274, 0.0292, 0.0343, 0.0377, 0.0377, 0.0429, 0.0480, 0.1201]
+2019-04-26 04:22:12,206 [INFO    ] auc: 0.99284061328
+2019-04-26 04:22:12,209 [INFO    ] thr: [0.9774, 0.9656, 0.9394, 0.8953, 0.8784, 0.8558, 0.8237, 0.7769, 0.4574]
+2019-04-26 04:22:12,211 [INFO    ] tpr: [0.9009, 0.9253, 0.9510, 0.9703, 0.9752, 0.9801, 0.9850, 0.9902, 0.9990]
+2019-04-26 04:22:12,213 [INFO    ] fpr: [0.0177, 0.0263, 0.0433, 0.0630, 0.0722, 0.0808, 0.1011, 0.1208, 0.1727]
+2019-04-26 04:22:12,599 [INFO    ] auc: 0.994847277909
+2019-04-26 04:22:12,602 [INFO    ] thr: [0.9913, 0.9875, 0.9824, 0.9717, 0.9674, 0.9519, 0.9519, 0.9091, 0.6243]
+2019-04-26 04:22:12,604 [INFO    ] tpr: [0.9000, 0.9286, 0.9500, 0.9718, 0.9765, 0.9852, 0.9852, 0.9928, 0.9990]
+2019-04-26 04:22:12,606 [INFO    ] fpr: [0.0144, 0.0161, 0.0209, 0.0321, 0.0353, 0.0385, 0.0385, 0.0417, 0.0642]
+2019-04-26 04:22:49,116 [INFO    ] nevents: 258400/498400
+2019-04-26 04:22:50,212 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 13.4429742917, 12.4653034434, 10.754379414, 9.77670856565, 8.92124655098
+2019-04-26 04:23:06,191 [INFO    ] nevents: 258400/498400
+2019-04-26 04:23:07,214 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 14.0540184751, 12.0986767784, 10.6321705356, 9.65449968725, 8.43241111189
+2019-04-26 04:23:17,892 [INFO    ] nevents: 258400/498400
+2019-04-26 04:23:18,916 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 20.2866701782, 17.9647018611, 15.3983158767, 14.0540184677, 12.3430944383
+2019-04-26 04:23:44,904 [INFO    ] nevents: 258400/498400
+2019-04-26 04:23:46,188 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 17.475866586, 14.9094806015, 12.7097211182, 11.6098413765, 10.6321705282
+2019-04-26 04:23:49,714 [INFO    ] nevents: 258400/498400
+2019-04-26 04:23:50,744 [INFO    ] Rates in kHz at 18/19/20/21/22 GeV: 16.0093601942, 13.6873918772, 12.2208856344, 11.487632513, 10.7543793917
+2019-04-26 16:53:17,758 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-04-26 16:53:17,954 [INFO    ] Using numpy 1.14.1
+2019-04-26 16:53:24,313 [INFO    ] Using tensorflow 1.6.0
+2019-04-26 16:53:24,426 [INFO    ] Using keras 2.1.4
+2019-04-26 16:53:24,445 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-04-26 16:53:24,445 [INFO    ] Using scipy 1.1.0
+2019-04-26 16:53:24,771 [INFO    ] Using sklearn 0.19.1
+2019-04-26 16:53:25,067 [INFO    ] Using matplotlib 1.5.2
+2019-06-05 10:30:43,382 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-06-05 10:30:43,614 [INFO    ] Using numpy 1.14.1
+2019-06-05 10:31:03,282 [INFO    ] Using tensorflow 1.6.0
+2019-06-05 10:31:04,114 [INFO    ] Using keras 2.1.4
+2019-06-05 10:31:04,123 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-06-05 10:31:04,123 [INFO    ] Using scipy 1.1.0
+2019-06-05 10:31:05,157 [INFO    ] Using sklearn 0.19.1
+2019-06-05 10:31:06,373 [INFO    ] Using matplotlib 1.5.2
+2019-06-05 10:32:19,672 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-06-05 10:32:24,640 [ERROR   ] Failed to load data from file: /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz
+2019-06-05 10:33:15,957 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-06-05 10:33:16,186 [INFO    ] Using numpy 1.14.1
+2019-06-05 10:33:19,900 [INFO    ] Using tensorflow 1.6.0
+2019-06-05 10:33:19,984 [INFO    ] Using keras 2.1.4
+2019-06-05 10:33:19,993 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-06-05 10:33:19,994 [INFO    ] Using scipy 1.1.0
+2019-06-05 10:33:20,199 [INFO    ] Using sklearn 0.19.1
+2019-06-05 10:33:20,466 [INFO    ] Using matplotlib 1.5.2
+2019-06-05 10:33:24,167 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-06-05 10:33:28,612 [ERROR   ] Failed to load data from file: /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz
+2019-06-05 10:48:48,334 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-06-05 10:48:52,771 [ERROR   ] Failed to load data from file: /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz
+2019-06-05 10:50:10,575 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-06-05 10:50:10,751 [INFO    ] Using numpy 1.14.1
+2019-06-05 10:50:14,707 [INFO    ] Using tensorflow 1.6.0
+2019-06-05 10:50:14,790 [INFO    ] Using keras 2.1.4
+2019-06-05 10:50:14,798 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-06-05 10:50:14,798 [INFO    ] Using scipy 1.1.0
+2019-06-05 10:50:14,985 [INFO    ] Using sklearn 0.19.1
+2019-06-05 10:50:15,270 [INFO    ] Using matplotlib 1.5.2
+2019-06-05 10:50:19,409 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-06-05 10:50:23,876 [ERROR   ] Failed to load data from file: /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz
+2019-06-05 10:51:01,597 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-06-05 10:51:01,726 [INFO    ] Using numpy 1.14.1
+2019-06-05 10:51:03,758 [INFO    ] Using tensorflow 1.6.0
+2019-06-05 10:51:03,806 [INFO    ] Using keras 2.1.4
+2019-06-05 10:51:03,816 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-06-05 10:51:03,816 [INFO    ] Using scipy 1.1.0
+2019-06-05 10:51:03,868 [INFO    ] Using sklearn 0.19.1
+2019-06-05 10:51:04,198 [INFO    ] Using matplotlib 1.5.2
+2019-06-05 10:51:04,509 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-06-05 10:51:08,942 [ERROR   ] Failed to load data from file: /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz
+2019-06-05 11:30:03,902 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-06-05 11:30:04,107 [INFO    ] Using numpy 1.14.1
+2019-06-05 11:30:08,137 [INFO    ] Using tensorflow 1.6.0
+2019-06-05 11:30:08,226 [INFO    ] Using keras 2.1.4
+2019-06-05 11:30:08,235 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-06-05 11:30:08,235 [INFO    ] Using scipy 1.1.0
+2019-06-05 11:30:08,430 [INFO    ] Using sklearn 0.19.1
+2019-06-05 11:30:08,737 [INFO    ] Using matplotlib 1.5.2
+2019-06-05 11:30:18,028 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-06-05 11:30:22,453 [ERROR   ] Failed to load data from file: /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz
+2019-06-05 11:59:06,365 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-06-05 11:59:06,605 [INFO    ] Using numpy 1.14.1
+2019-06-05 11:59:10,653 [INFO    ] Using tensorflow 1.6.0
+2019-06-05 11:59:10,745 [INFO    ] Using keras 2.1.4
+2019-06-05 11:59:10,752 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-06-05 11:59:10,753 [INFO    ] Using scipy 1.1.0
+2019-06-05 11:59:10,963 [INFO    ] Using sklearn 0.19.1
+2019-06-05 11:59:11,256 [INFO    ] Using matplotlib 1.5.2
+2019-06-05 11:59:13,973 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-06-05 11:59:19,993 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-06-05 11:59:19,995 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-06-05 11:59:38,038 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-06-05 11:59:38,041 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-06-05 11:59:40,626 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-06-05 11:59:46,611 [INFO    ] Loading pileup data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tbd.20.npz ...
+2019-06-05 11:59:48,002 [INFO    ] Loaded the variables with shape (816244, 87)
+2019-06-05 11:59:48,004 [INFO    ] Loaded the auxiliary PU info with shape (816244, 4)
+2019-06-05 11:59:52,334 [INFO    ] Loaded the encoded variables with shape (816244, 39)
+2019-06-05 11:59:52,335 [INFO    ] Loaded the encoded auxiliary PU info with shape (816244, 4)
+2019-06-05 11:59:52,558 [INFO    ] Loaded # of training and testing events: (652320, 163924)
+2019-06-05 12:00:06,154 [INFO    ] Mixed muon data with pileup data. x_train_new has shape (4515830, 39), y_train_new has shape (4515830,),(4515830,)
+2019-06-05 12:00:07,266 [INFO    ] Training model with l1_reg: 0.0 l2_reg: 0.0
+2019-06-05 12:00:07,268 [INFO    ] Begin training ...
+2019-06-05 12:02:18,367 [INFO    ] Done training. Time elapsed: 0:02:11.098549 sec
+2019-06-05 12:02:18,478 [INFO    ] Epoch 5/5 - loss: 0.186987330581 - regr_loss: 3.07775579684 - discr_loss: 0.0330995376783 - val_loss: 0.179480464808 - val_regr_loss: 2.95249298208 - val_discr_loss: 0.0318558134789
+2019-06-06 06:55:59,207 [INFO    ] # of entries: 167319, mean: 0.00112515327055, std: 0.0423225089908
+2019-06-06 06:55:59,274 [INFO    ] gaus fit (a, mu, sig): [ 1.35722538e+04 -5.72009040e-04  2.64147848e-02]
+2019-06-06 06:56:01,171 [INFO    ] # of entries: 167319, mean: 0.352549552917, std: 0.258731007576
+2019-06-06 06:56:01,179 [INFO    ] gaus fit (a, mu, sig): [ 1.71503101e+04 -5.74463331e-03  1.38864027e-01]
+2019-06-06 06:56:14,736 [INFO    ] gaus fit (a, mu, sig): [ 1.21480221e+02 -1.17928344e-01  2.02998137e-01]
+2019-06-06 06:56:25,109 [INFO    ] 20 GeV threshold 13.9685516357 rate 204.804519653
+2019-06-06 06:56:25,315 [INFO    ] 22 GeV threshold 14.727098465 rate 181.483444214
+2019-06-06 06:56:46,055 [INFO    ] auc: 0.9800338685
+2019-06-06 06:56:46,057 [INFO    ] thr: [0.9306, 0.9035, 0.8534, 0.7711, 0.7368, 0.6976, 0.6497, 0.5541, 0.1241]
+2019-06-06 06:56:46,059 [INFO    ] tpr: [0.9006, 0.9251, 0.9504, 0.9700, 0.9751, 0.9801, 0.9850, 0.9902, 0.9990]
+2019-06-06 06:56:46,061 [INFO    ] fpr: [0.0573, 0.0838, 0.1132, 0.1581, 0.1691, 0.1902, 0.2072, 0.2311, 0.3204]
+2019-06-06 06:56:46,434 [INFO    ] auc: 0.989511753503
+2019-06-06 06:56:46,436 [INFO    ] thr: [0.9782, 0.9696, 0.9503, 0.9231, 0.9038, 0.8705, 0.8414, 0.8055, 0.2129]
+2019-06-06 06:56:46,437 [INFO    ] tpr: [0.9005, 0.9251, 0.9549, 0.9704, 0.9762, 0.9828, 0.9862, 0.9900, 0.9991]
+2019-06-06 06:56:46,439 [INFO    ] fpr: [0.0316, 0.0407, 0.0482, 0.0633, 0.0693, 0.0768, 0.0813, 0.0843, 0.1717]
+2019-06-06 08:21:21,560 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-06-06 08:21:21,975 [INFO    ] Using numpy 1.14.1
+2019-06-06 08:21:29,978 [INFO    ] Using tensorflow 1.6.0
+2019-06-06 08:21:30,170 [INFO    ] Using keras 2.1.4
+2019-06-06 08:21:30,189 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-06-06 08:21:30,190 [INFO    ] Using scipy 1.1.0
+2019-06-06 08:21:30,501 [INFO    ] Using sklearn 0.19.1
+2019-06-06 08:21:31,476 [INFO    ] Using matplotlib 1.5.2
+2019-06-06 08:21:32,813 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-06-06 08:21:40,540 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-06-06 08:21:40,543 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-06-06 08:21:55,843 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-06-06 08:21:55,846 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-06-06 08:21:57,670 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
+2019-06-06 08:28:57,001 [INFO    ] Using cmssw CMSSW_10_2_0
+2019-06-06 08:28:57,310 [INFO    ] Using numpy 1.14.1
+2019-06-06 08:29:03,135 [INFO    ] Using tensorflow 1.6.0
+2019-06-06 08:29:03,274 [INFO    ] Using keras 2.1.4
+2019-06-06 08:29:03,286 [INFO    ] .. list devices: [_DeviceAttributes(/job:localhost/replica:0/task:0/device:CPU:0, CPU, 268435456)]
+2019-06-06 08:29:03,287 [INFO    ] Using scipy 1.1.0
+2019-06-06 08:29:03,597 [INFO    ] Using sklearn 0.19.1
+2019-06-06 08:29:04,012 [INFO    ] Using matplotlib 1.5.2
+2019-06-06 08:29:05,028 [INFO    ] Loading muon data from /uscms_data/d3/mkim/MKWorkingArea/CMSSW_10_2_0/src/JL/Melrose/P2_CMSSW_10_1_5/src/L1TMuonSimulations/Analyzers/test7/histos_tba.20.npz ...
+2019-06-06 08:29:10,907 [INFO    ] Loaded the variables with shape (3272341, 87)
+2019-06-06 08:29:10,910 [INFO    ] Loaded the parameters with shape (3272341, 3)
+2019-06-06 08:29:24,324 [INFO    ] Loaded the encoded variables with shape (3272341, 39)
+2019-06-06 08:29:24,327 [INFO    ] Loaded the encoded parameters with shape (3272341,)
+2019-06-06 08:29:26,296 [INFO    ] Loaded # of training and testing events: (2257915, 1014426)
