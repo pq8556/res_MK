@@ -1,17 +1,29 @@
 import numpy as np
 
 nlayers = 12  # 5 (CSC) + 4 (RPC) + 3 (GEM)
-
 nvariables = (nlayers * 6) + 3 - 36
-
 nvariables_input = (nlayers * 7) + 3
-
 nparameters_input = 3
 
-#===============================================================================    
-#======================  MK (jlow version deleted) =============================
-#===============================================================================
 class Encoder_MK(object):
+    """
+    Takes design matrix X and target y, then perform various preprocessing on data before the input to machine learning algorithm
+    
+    Parameters:
+    x
+    y
+    adjust_scale: leave it alone
+    reg_pt_scale : leave it alone
+    drop*: -
+    drop_MK : dropping features, for study
+    input2 : -
+    nanStd : nanStd to normalize ME1/1 bend angle variable
+    
+    Methods
+    
+    
+    
+    """
     def __init__(self, x, y, adjust_scale=0, reg_pt_scale=1.0, drop_ge11=False, drop_ge21=False, drop_me0=False, drop_irpc=False, drop_MK=False, nbits=7, input2=False, nanStd=1):
         if x is not None and y is not None:
             assert(x.shape[1] == nvariables_input)
@@ -85,7 +97,7 @@ class Encoder_MK(object):
             self.x_time [x_dropit] = np.nan
             self.x_ring [x_dropit] = np.nan
             self.x_fr   [x_dropit] = np.nan
-            self.x_mask [x_dropit] = 1
+            self.x_mask [x_dropit] = 1 # dropped is true (1)
       
             # Make event weight
             #self.w       = np.ones(self.y_pt.shape, dtype=np.float32)

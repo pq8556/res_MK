@@ -25,7 +25,7 @@
 #    return X
 
 
-def det_bits(loaded, ind_det=24, nbits=7, verbose=True):
+def det_bits(loaded, ind_det=24, nbits=7, verbose=False):
     """
     Compresses ME1/1 bend angle variable into less number of bits
     
@@ -85,7 +85,7 @@ def det_bits(loaded, ind_det=24, nbits=7, verbose=True):
 
     result[nan_ind] = max(bins) + 1 # value for np.nan 
     if verbose == True:
-        print(X[0:100:,ind_det])
-        print(result[0:100])
+        print(X[0:10:,ind_det])
+        print(result[0:10])
     X[:,ind_det] = result
     return X, nanStd

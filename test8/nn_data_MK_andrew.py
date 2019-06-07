@@ -10,13 +10,11 @@ from nn_encode import Encoder_MK, pt_range_select
 
 
 # ______________________________________________________________________________
-def muon_data(filename, adjust_scale=0, reg_pt_scale=1.0, correct_for_eta=False, nbits=7, MKptmin=20, MKptmax=40, get_eta=False, verbose=True):
+def muon_data(filename, adjust_scale=0, reg_pt_scale=1.0, correct_for_eta=False, nbits=7, MKptmin=20, MKptmax=40, get_eta=False, verbose=False):
     try:
         logger.info('Loading muon data from {0} ...'.format(filename))
         loaded = np.load(filename)
-        print("so far ok?")
-        the_variables_0, nanStd = det_bits(loaded,ind_det=24,nbits=nbits,verbose=True)
-        #the_variables = loaded['variables']
+        the_variables_0, nanStd = det_bits(loaded,ind_det=24,nbits=nbits,verbose=verbose)
         the_parameters_0 = loaded['parameters']
         ooptmin = 1/float(MKptmin) # e.g. 0.05 (20GeV)
         ooptmax = 1/float(MKptmax) # e.g. 0.025 (40GeV)
@@ -37,7 +35,6 @@ def muon_data(filename, adjust_scale=0, reg_pt_scale=1.0, correct_for_eta=False,
         logger.error('Failed to load data from file: {0}'.format(filename))
   
 
-    print("hello chan!")
     print(the_variables.shape[0])
     assert(the_variables.shape[0] == the_parameters.shape[0])
   
