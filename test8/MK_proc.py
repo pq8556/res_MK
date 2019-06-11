@@ -24,24 +24,30 @@
 #    X[:,ind_det] = yesnan
 #    return X
 
-
-def det_bits(loaded, ind_det=24, nbits=7, verbose=False):
+def det_bits(loaded, ind_det=24, nbits=5, verbose=False):
     """
-    Compresses ME1/1 bend angle variable into less number of bits
+    Compress the ME1/1 bend angle variable into less number of bits
     
     Parameters:
-    loaded : Design Matrix X
-    ind_det : index for ME 1/1 bend angle variable. (24)
-    nbits : bit size or bit compression scheme
+    -----------
+    loaded : dictionary
+        Loaded .npy data file containing design matrix X (key='variables') and target y (key='parameters')
+    ind_det : int
+        The index for ME 1/1 bend angle variable in Design Matrix X, which is 24
+    nbits : int
+        bit size or scheme for compression
     
     Returns:
-    Design Matrix with compressed bend angle variable
-    Std. Dev. to be used for normalization
+    --------
+    out : ndarray
+        The modified design matrix X with the compressed bend angle variable
+    out : float
+        Standard deviation to be used for normalization for neural network input
     """
-    # original binning is 260(about 8bits)
     import numpy as np
     X = loaded['variables']
     
+    #-------------------------------------------------------------------------
     # compression schemes
     dictBins = {}
     
@@ -61,17 +67,17 @@ def det_bits(loaded, ind_det=24, nbits=7, verbose=False):
     dictBins[32] = np.asarray([0,2,5, 17]) # Power-of-2 mode
     dictBins[33] = np.asarray([0,3,9, 22]) # Fibbonaci-ish mode
     dictBins[34] = np.asarray([0,3,8, 18]) # Log-1.6 mode
+    #-------------------------------------------------------------------------
     
-    # applying binning 
-    bins = dictBins[nbits]
-    binsNp = np.asarray(bins)
-    nums = X[:,ind_det] # bend variable for ME1/1 (ind_det =24)
+    # applying binning
+    bins = np.asarray(dictBins[nbits])
+    nums = X[:,ind_det]
     numsSign = nums.copy()
     numsSign[numsSign >= 0] = 1
     numsSign[numsSign < 0] = -1
     numsAbs = np.abs(nums)
-    bin_ind = np.digitize(numsAbs,binsNp)
-    result = binsNp[bin_ind-1]
+    bin_ind = np.digitize(numsAbs,bins)
+    result = bins[bin_ind-1]
     result = result * numsSign
     if verbose == True:
         print("clip performed")
@@ -82,8 +88,7 @@ def det_bits(loaded, ind_det=24, nbits=7, verbose=False):
     nan_ind = np.isnan(X[:,ind_det]) # indicies for nan values
     if verbose == True:
         print(bins)
-
-    result[nan_ind] = max(bins) + 1 # value for np.nan 
+    result[nan_ind] = max(dictBins[nbits]) + 1 # value for np.nan
     if verbose == True:
         print(X[0:10:,ind_det])
         print(result[0:10])
